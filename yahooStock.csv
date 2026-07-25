@@ -1,0 +1,1301 @@
+symbol,symbolName,fullName,shortJobTitle,transactionType,amount,reportedPrice,usdValue,eodHolding,transactionDate,symbolCode,hasOptions,symbolType
+OSIS,O S I Systems Inc,Paul Keith Morben,Pres.,Sell,416,279.1,116105,8540.0,2025-11-07,STK,Yes,1
+OSIS,O S I Systems Inc,James B Hawkins,N/A,Sell,1500,283.15,424725,5036.0,2025-11-07,STK,Yes,1
+UP,Wheels Up Experience Inc,Meaghan Danielle Wells,Chf Dev. Off.,Sell,47931,1.22,58475,526681.0,2025-11-07,STK,Yes,1
+UP,Wheels Up Experience Inc,Mark Briffa,Chf Sales Off.,Sell,86813,1.23,106780,866670.0,2025-11-07,STK,Yes,1
+EWBC,East West Bancorp,Molly Campbell,N/A,Sell,1000,102.214,102214,10076.0,2025-11-07,STK,Yes,1
+LENZ,Lenz Therapeutics Inc,Daniel R Chevallard,CFO,Buy,2198,22.7557,50018,5386.0,2025-11-07,STK,Yes,1
+LTC,Ltc Properties,David L Gruber,N/A,Buy,5000,35.512,177561,29834.0,2025-11-07,STK,Yes,1
+PSA-L,Public Storage [Psa/Pl],American Shareholder,N/A,Sell,478,25.15,12022,391079.0,2025-11-07,UIT,No,11
+TDUP,Thredup Inc Cl A,James G Reinhart,CEO,Sell,379826,7.932,3012780,573851.0,2025-11-07,STK,Yes,1
+TDUP,Thredup Inc Cl A,James G Reinhart,CEO,Sell,200000,7.9492,1589840,0.0,2025-11-07,STK,Yes,1
+TRNO,Terreno Realty Corp,John Tull Meyer,COO,Sell,4758,59.95,285242,187263.0,2025-11-07,STK,Yes,1
+MNRO,Monro Muffler Brak,Carl Celian Icahn,N/A,Buy,638659,17.3839,11102384,5078573.0,2025-11-07,STK,Yes,1
+PI,Impinj Inc,Miron L Washington,N/A,Sell,342,158.9374,54356,2040.0,2025-11-07,STK,Yes,1
+AKAM,Akamai Technologies,Dr Robert Blumofe,CTO,Sell,3500,86.0,301000,24474.0,2025-11-07,STK,Yes,1
+JPM,JP Morgan Chase & Company,Robin Leopold,HR,Sell,966,311.9162,301311,77145.0,2025-11-07,STK,Yes,1
+BDX,Becton Dickinson and Company,Bertram L Scott,N/A,Sell,217,176.58,38318,35816.0,2025-11-07,STK,Yes,1
+FHI,Federated Investors,Peter J Germain,CLO,Sell,5000,49.2242,246121,206324.0,2025-11-07,STK,Yes,1
+NGS,Natural Gas Services Group,Stephen Charles Taylor,Chair Emeritus,Sell,11252,29.0575,326955,478393.0,2025-11-07,STK,Yes,1
+SRE,Sempra,Alexander Lisa Larroque,Corp Aff,Sell,4322,92.55,400002,11325.0,2025-11-07,STK,Yes,1
+DBRG,Digitalbridge Group Inc,Jay S Wintrob,N/A,Award,8075,0.0,88341,8075.0,2025-11-07,STK,Yes,1
+RGT,Royce Global Trust Inc,Charles M Royce,Sr. Adviser,Sell,10564,12.554,132621,805764.0,2025-11-07,UIT,No,11
+KNX,Knight-Swift Transporation Inc,Cary M Flanagan,CAO,Sell,4300,45.0393,193669,5644.0,2025-11-07,STK,Yes,1
+DIN,Dineequity Inc,Howard M Berk,N/A,Buy,4082,24.5,100009,41947.0,2025-11-07,STK,Yes,1
+SKYQ,Sky Quarry Inc,Matthew C Flemming,N/A,Award,550000,0.0,207405,578789.0,2025-11-07,STK,No,1
+SKYQ,Sky Quarry Inc,David O Sealock,N/A,Sell,38062,0.4,15225,477510.0,2025-11-07,STK,No,1
+GLRE,Greenlight Cap. Re.,Thomas James Curnock,ChfUn'writingOff,Sell,9942,12.58,125070,169890.0,2025-11-07,STK,Yes,1
+AVBC,Avidia Bancorp Inc,Michael Dennis Murphy,Chair,Buy,10000,15.1175,151174,70000.0,2025-11-07,STK,No,1
+TK,Teekay Corporation Ltd,Heidi Locke Simon,Chair,Sell,47577,9.6743,460274,2021378.1586314153,2025-11-07,STK,Yes,1
+EL,Estee Lauder Companies,American Shareholder,N/A,Sell,5670000,89.7,508599000,0.0,2025-11-06,STK,Yes,1
+EL,Estee Lauder Companies,American Shareholder,N/A,Sell,2845283,89.7,255221885,0.0,2025-11-06,STK,Yes,1
+EL,Estee Lauder Companies,American Shareholder,N/A,Sell,2786040,89.7,249907788,0.0,2025-11-06,STK,Yes,1
+AL,Air Lease Corp Cl A,Gregory B Willis,CFO,Sell,23481,63.8303,1498800,56408.0,2025-11-06,STK,Yes,1
+S,Sentinelone Inc Cl A,Tomer Weingarten,Chair & CEO,Sell,57941,16.4135,951015,1251780.0,2025-11-06,STK,Yes,1
+NXGL,Nexgel Inc,Adam Levy,CEO,Sell,4000,2.5211,10084,367692.0,2025-11-06,STK,No,1
+THC,Tenet Healthcare Corp,R Scott Ramsey,PAO,Sell,13322,205.1073,2732440,0.0,2025-11-06,STK,Yes,1
+CDNS,Cadence Design Sys,Chin-Chi Teng,GM,Sell,3400,324.94,1104796,123381.0,2025-11-06,STK,Yes,1
+VSTD,Vestand Inc,James Chae,N/A,Sell,109427,0.5597,61247,2299371.0,2025-11-06,STK,No,1
+KTOS,Kratos Defense & Security Inc,David M Carter,Div. Pres.,Sell,4000,73.6395,294558,89809.0,2025-11-06,STK,Yes,1
+U,Unity Software Inc,Jarrod Yahes,CFO,Sell,15000,41.1496,617244,623504.0,2025-11-06,STK,Yes,1
+MEC,Mayville Engineering Company,Craig D Nichols,Ops,Award,1134,0.0,18927,1134.0,2025-11-06,STK,Yes,1
+ENSG,The Ensign Group IN,Dr John O Agwunobi,N/A,Sell,246,188.87,46462,8879.0,2025-11-06,STK,Yes,1
+EXPI,eXp World Holdings Inc,Leonardo Pareja,Subs CEO,Award,9371,0.0,90899,34684.0,2025-11-06,STK,Yes,1
+IHT,Innsuites Hospitality Trust,James F Wirth,Chair & CEO,Sell,22500,1.4851,33415,6091796.0,2025-11-06,STK,No,1
+TREX,Trex Company,Amy M Fernandez,CLO & Sec.,Award,29198,0.0,932000,52151.0,2025-11-06,STK,Yes,1
+TEAM,Atlassian Corp,Michael Cannon-Brookes,CEO,Sell,7665,155.8814,1194831,283605.0,2025-11-06,STK,Yes,1
+PEGA,Pegasystems Inc,Alan Trefler,Chair & CEO,Sell,90000,59.3528,5341752,77375183.0,2025-11-06,STK,Yes,1
+CRL,Charles River Laboratories Intl,Michael Gunnar Knell,Int CFO & CAO,Award,2926,0.0,499995,13460.0,2025-11-06,STK,Yes,1
+NCDL,Nuveen Churchill Direct Lending Corp,Kenneth J Kencel,Chair & CEO,Buy,20000,14.22,284400,103058.0,2025-11-06,STK,No,1
+EVOK,Evoke Pharma,Roger M Klein,N/A,Sell,9000,10.6539,95885,154000.0,2025-11-06,STK,No,1
+IONS,Ionis Pharmaceuticals,Brian Birchler,Dev.,Sell,8000,76.1724,609379,48826.0,2025-11-06,STK,Yes,1
+TEAM,Atlassian Corp,Scott Farquhar,N/A,Sell,7665,155.8817,1194834,283605.0,2025-11-06,STK,Yes,1
+NTRS,Northern Trust Corp,Steven Fradkin,V.Chair,Sell,9376,128.0,1200128,250109.0,2025-11-06,STK,Yes,1
+SYK,Stryker Corp,Ronda E Stryker,N/A,Sell,520000,355.0118,184606136,16319726.0,2025-11-06,STK,Yes,1
+DBD,Diebold Nixdorf Incorporated,American Shareholder,N/A,Sell,251726,63.1903,15906641,5716672.0,2025-11-06,STK,Yes,1
+YELP,Yelp Inc,Joseph (Jed) R Nachman,COO,Sell,7000,32.1552,225087,212668.0,2025-11-06,STK,Yes,1
+PMTS,CPI Card Group,Sanford H Riley,Chair,Buy,10000,14.1999,141999,51457.0,2025-11-06,STK,No,1
+ZOMDF,Zomedica Corp,Russell Kevin Klass,Sales,Buy,253007,0.08,20240,5509101.0,2025-11-06,STK:OTC,No,1
+EBAY,Ebay Inc,Jamie Iannone,CEO,Sell,14442,81.0662,1170758,446617.0,2025-11-06,STK,Yes,1
+BWB,Bridgewater Bancshares Inc,Lisa M Salazar,COO,Sell,2175,16.72,36367,32091.0,2025-11-06,STK,Yes,1
+COF,Capital One Financial Corp,Neal Blinde,Div. Exec,Sell,43200,221.83,9583056,73020.0,2025-11-06,STK,Yes,1
+TBLA,Taboola.com Ltd,Eldad Maniv,COO,Sell,424861,3.7793,1605677,10392460.0,2025-11-06,STK,Yes,1
+CUBI,Customers Bancorp,Jay S Sidhu,Chair & CEO,Sell,23435,67.7579,1587907,1524234.0,2025-11-06,STK,Yes,1
+RDNW,Ridenow Group Inc,Joshua J Barsetti,CFO & EVP,Award,182000,0.0,746200,182000.0,2025-11-06,STK,Yes,1
+NTCT,Netscout Systems,John Downing,Sales & Ops,Sell,1238,30.0,37140,135494.0,2025-11-06,STK,Yes,1
+MORN,Morningstar Inc,Joseph D Mansueto,Chair,Sell,11343,211.2436,2396136,14773431.0,2025-11-06,STK,Yes,1
+COLL,Collegium Pharma,Colleen Tupper,CFO,Sell,30000,40.5251,1215753,126667.0,2025-11-06,STK,Yes,1
+CNP,Centerpoint Energy Inc,Phillip R Smith,Chair,Sell,6200,38.83,240746,65577.0,2025-11-06,STK,Yes,1
+TREX,Trex Company,Prithvi Gandhi,CFO & PAO,Award,15664,0.0,499995,15664.0,2025-11-06,STK,Yes,1
+NPO,Enpro Inc,Eric A Vaillancourt,CEO,Sell,2272,227.0,515744,41036.0,2025-11-06,STK,Yes,1
+JCI,Johnson Controls Intl,Lei Zhang Schlitz,Div. VP.,Sell,10500,122.03,1281315,115220.0,2025-11-06,STK,Yes,1
+NBTB,NBT Bancorp Inc,Timothy E Delaney,N/A,Buy,10000,40.975,409750,51894.0,2025-11-06,STK,Yes,1
+SXC,Suncoke Energy Inc,Ralph M Della Ratta,N/A,Buy,7288,6.86,49995,86293.0,2025-11-06,STK,Yes,1
+RRBI,Red River Bancshares Inc,Teddy Ray Price,Chair,Buy,1046,65.763,68789,446586.0,2025-11-06,STK,No,1
+HCC,Warrior Met Coal Inc,Walter J Scheller,CEO,Sell,18966,75.0,1422450,394183.0,2025-11-06,STK,Yes,1
+ENTG,Entegris Inc,Joseph Colella,Gen Cou,Sell,3577,88.41,316242,34364.0,2025-11-06,STK,Yes,1
+MGYR,Magyar Bancorp Inc,Maureen Ruane,N/A,Award,1464,0.0,24112,5154.0,2025-11-06,STK,No,1
+DGICA,Donegal Group Cl A,American Shareholder,N/A,Buy,16000,19.1176,305882,13678579.0,2025-11-06,STK,Yes,1
+YUM,Yum! Brands,Scott Mezvinsky,Div. CEO,Sell,1755,148.81,261161,1487.0,2025-11-06,STK,Yes,1
+CMPR,Cimpress N.V. Ord,Sean E. Quinn,CFO,Buy,4000,62.7936,251174,36484.0,2025-11-06,STK,Yes,1
+PARR,Par Pacific Holdings Inc,Richard Creamer,Div. EVP,Sell,15848,41.22,653255,54654.0,2025-11-06,STK,Yes,1
+AER,Aercap Holdings N.V.,Peter Anderson,Chf Com Off.,Sell,197965,133.63,26454062,2021378.1586314153,2025-11-06,STK,Yes,1
+TTAN,Servicetitan Inc Cl A,Ara Mahdessian,Chair & CEO,Sell,60805,91.4751,5562143,0.0,2025-11-06,STK,Yes,1
+GTE,Gran Tierra Energy Inc,American Shareholder,N/A,Buy,648000,3.9375,2551500,5745688.0,2025-11-06,STK,Yes,1
+HOWL,Werewolf Therapeutics Inc,Dr Luke Evnin,Chair,Sell,155885,1.2178,189837,3787474.0,2025-11-06,STK,Yes,1
+HOWL,Werewolf Therapeutics Inc,Ansbert K Gadicke,N/A,Sell,242890,1.2178,295792,5904720.0,2025-11-06,STK,Yes,1
+SCKT,Socket Mobile,Charlie Bass,N/A,Buy,10000,1.0596,10596,1623151.0,2025-11-06,STK,No,1
+SWK,Stanley Black & Decker Inc,Janet Link,Gen Cou & Sec,Sell,11766,69.0773,812764,0.0,2025-11-06,STK,Yes,1
+VTR,Ventas Inc,Peter J Bulgarelli,Div. EVP,Sell,4960,75.0516,372255,111528.0,2025-11-06,STK,Yes,1
+BLKB,Blackbaud Inc,Michael P Gianoni,CEO,Sell,15000,60.1267,901901,372985.0,2025-11-06,STK,Yes,1
+RCKY,Rocky Brands Inc,Curtis A Loveland,Co Sec,Sell,9556,31.5909,301883,95454.0,2025-11-06,STK,No,1
+AXTI,Axt Inc,Gary L Fischer,CFO,Sell,22675,8.8722,201177,463294.0,2025-11-06,STK,Yes,1
+ETSY,Etsy Inc,Bradley Minor,CMO,Sell,1986,57.81,114810,7373.0,2025-11-06,STK,Yes,1
+NCLH,Norwegian Cruise Ord,Jason M Montague,Chf Off.,Buy,13400,18.8075,252020,65791.0,2025-11-06,STK,Yes,1
+MTDR,Matador Resources Company,Shelley F Appel,N/A,Buy,2880,37.7597,108748,1747442.0,2025-11-06,STK,Yes,1
+CBAN,Colony Bankcorp Inc,Edward G Canup,CBO,Buy,1000,16.075,16075,26542.0,2025-11-06,STK,Yes,1
+NCLH,Norwegian Cruise Ord,Harry Sommer,CEO,Buy,25000,18.5173,462932,720728.0,2025-11-06,STK,Yes,1
+NCLH,Norwegian Cruise Ord,Mark Kempa,CFO,Buy,10635,18.5285,197050,369352.0,2025-11-06,STK,Yes,1
+BSX,Boston Scientific Corp,Ellen M Zane,N/A,Sell,12891,98.2839,1266977,24134.0,2025-11-06,STK,Yes,1
+SYBT,Stock Yards Bancorp,David L. Hardy,N/A,Buy,2000,66.53,133060,2083.0,2025-11-06,STK,Yes,1
+OHI,Omega Healthcare Investors,Vikas Gupta,Chf Invest Off.,Buy,11500,42.9668,494118,13773.0,2025-11-06,STK,Yes,1
+STLD,Steel Dynamics Inc,Jennifer L Hamann,N/A,Award,122,0.0,18803,4365.0,2025-11-06,STK,Yes,1
+STLD,Steel Dynamics Inc,Richard P Teets Jr,N/A,Award,244,0.0,37608,5145998.0,2025-11-06,STK,Yes,1
+STLD,Steel Dynamics Inc,Sheree L Bargabos,N/A,Award,244,0.0,37608,25878.0,2025-11-06,STK,Yes,1
+CAT,Caterpillar Inc,David W Maclennan,N/A,Buy,300,568.86,170658,7947.0,2025-11-06,STK,Yes,1
+BKV,Bkv Corp,Lindsay B Larrick,CLO,Sell,29187,25.0005,729690,137154.0,2025-11-06,STK,Yes,1
+GBCI,Glacier Bancorp Inc,Ryan Thomas Screnar,Chf Adm Off,Buy,979,41.8751,40995,13857.0,2025-11-06,STK,Yes,1
+GBCI,Glacier Bancorp Inc,Lee Kenneth Groom,EVP,Buy,2425,41.26,100056,14343.0,2025-11-06,STK,Yes,1
+ALV,Autoliv Inc,Petra Albuschus,Div. EVP,Award,328,0.0,39820,647.0,2025-11-06,STK,Yes,1
+SOFI,Sofi Technologies Inc,Christopher Lapointe,CFO,Award,276963,0.0,8328278,1637029.0,2025-11-05,STK,Yes,1
+SOFI,Sofi Technologies Inc,Anthony Noto,CEO,Award,2142859,0.0,64435770,11347906.0,2025-11-05,STK,Yes,1
+AGRI,Agriforce Growing Systems Ltd,Daniel Mendes,N/A,Award,30612,0.0,85713,30612.0,2025-11-05,STK,No,1
+ATLX,Atlas Lithium Corp,Marc Fogassa,Chair & CEO,Sell,27272,4.4573,121560,4740348.0,2025-11-05,STK,Yes,1
+QS,Quantumscape Corp,Jeffrey B Straubel,N/A,Sell,27106,16.9269,458821,293934.0,2025-11-05,STK,Yes,1
+BE,Bloom Energy Corp Cl A,Maciej Kurzymski,Int CFO & CAO,Sell,13105,144.09,1888300,93269.0,2025-11-05,STK,Yes,1
+BE,Bloom Energy Corp Cl A,Eddy Zervigon,N/A,Sell,20000,141.28,2825600,67161.0,2025-11-05,STK,Yes,1
+APGE,Apogee Therapeutics Inc,Carl Dambkowski,Chf Med Off.,Sell,2725,55.0675,150059,282008.0,2025-11-05,STK,Yes,1
+THC,Tenet Healthcare Corp,Tammy Romo,N/A,Sell,645,205.2,132355,34866.0,2025-11-05,STK,Yes,1
+CRWV,Coreweave Inc Cl A,Michael N Intrator,Chair & CEO,Sell,82455,113.9717,9397537,6991055.0,2025-11-05,STK,Yes,1
+PSA-L,Public Storage [Psa/Pl],American Shareholder,N/A,Sell,3499,22.19,77643,766661.0,2025-11-05,UIT,No,11
+HIT,Health IN Tech Inc Cl A,Michael David Clarkson,Chf Invest Off.,Award,8000,0.0,22800,8000.0,2025-11-05,STK,No,1
+EQB-PR-C.TO,Equitable Group Inc Pref Ser 3,Tilman J Fertitta,N/A,Sell,7500,6.5131,48848,2500.0,2025-11-05,STKINT:CA,No,6
+PWR,Quanta Services,Worthing F Jackman,N/A,Sell,6349,450.45,2859907,1930.0,2025-11-05,STK,Yes,1
+CRWV,Coreweave Inc Cl A,Chen Goldberg,Eng.,Award,37500,0.0,4290750,37084.0,2025-11-05,STK,Yes,1
+RPRX,Royalty Pharma Plc Cl A,Marshall Urist,EVP,Award,4626,0.0,186982,109569.0,2025-11-05,STK,Yes,1
+DKL,Delek Logistics Partners LP,Reuven Spiegel,Div. Pres,Sell,250,45.0,11250,24462.0,2025-11-05,STK,Yes,1
+IAC,Iac Inc,Barry Diller,Chair,Award,438757,0.0,14483369,801945.0,2025-11-05,STK,Yes,1
+TSCO,Tractor Supply Company,Harry (Hal) A Lawton,CEO,Award,160192,0.0,8637553,693643.0,2025-11-05,STK,Yes,1
+PLPC,Preformed Line Prd,John M Hofstetter,Div. EVP,Sell,1110,211.85,235154,8244.0,2025-11-05,STK,No,1
+PLPC,Preformed Line Prd,Dennis F Mckenna,CEO,Sell,1987,211.85,420947,29660.0,2025-11-05,STK,No,1
+ENSG,The Ensign Group IN,Marivic S Uychiat,N/A,Award,1600,0.0,303888,14563.0,2025-11-05,STK,Yes,1
+EXPI,eXp World Holdings Inc,Jesse Hill,CFO,Award,1878,0.0,18874,2874.0,2025-11-05,STK,Yes,1
+W,Wayfair Inc,Fiona Tan,CTO,Sell,6347,100.54,638127,214769.0,2025-11-05,STK,Yes,1
+EKSO,Ekso Bionics Holdings Inc,Jerome Wong,CFO & Co Sec,Award,19500,0.0,102376,40173.0,2025-11-05,STK,Yes,1
+EKSO,Ekso Bionics Holdings Inc,Jason C Jones,COO,Award,15000,0.0,78750,40075.0,2025-11-05,STK,Yes,1
+EKSO,Ekso Bionics Holdings Inc,Scott Davis,CEO,Award,80000,0.0,420001,102465.0,2025-11-05,STK,Yes,1
+CDNS,Cadence Design Sys,Anirudh Devgan,CEO,Sell,5550,327.7981,1819280,195844.0,2025-11-05,STK,Yes,1
+EGP,Eastgroup Properties,Richard Reid Dunbar,EVP,Sell,2000,175.0,350000,20630.0,2025-11-05,STK,No,1
+GOOG,Alphabet Cl C,Sundar Pichai,CEO,Sell,32500,283.4763,9212980,2337119.0,2025-11-05,STK,Yes,1
+RBLX,Roblox Corp Cl A,Mark Reinstra,CLO & Co Sec,Sell,2401,104.6,251144,607968.0,2025-11-05,STK,Yes,1
+AIP,Arteris Inc,Laurent R Moll,COO,Sell,32775,15.4233,505499,311110.0,2025-11-05,STK,Yes,1
+BGSF,Bgsf Inc,Donna Carroll,N/A,Award,5482,0.0,18749,35486.0,2025-11-05,STK,Yes,1
+EP,Empire Petroleum Corp,Phil E. Mulacek,Chair,Buy,187084,3.77,705307,8022796.0,2025-11-05,STK,No,1
+WCC,Wesco International,Matthew S Kulasa,CAO,Sell,790,253.18,200012,3320.0,2025-11-05,STK,Yes,1
+BGSF,Bgsf Inc,Douglas E Hailey,N/A,Award,5482,0.0,18749,218224.0,2025-11-05,STK,Yes,1
+BGSF,Bgsf Inc,Paul A Seid,N/A,Award,5482,0.0,18749,141812.0,2025-11-05,STK,Yes,1
+EP,Empire Petroleum Corp,Michael R Morrisett,CEO & CFO,Sell,187084,3.77,705307,346088.0,2025-11-05,STK,No,1
+MEDP,Medpace Holdings Inc,Jesse J Geiger,Pres.,Sell,21503,595.66,12808476,15000.0,2025-11-05,STK,Yes,1
+ESI,Element Solutions Inc,Ian G Handley Ashken,N/A,Sell,292000,27.0,7884000,306880.0,2025-11-05,STK,Yes,1
+RPRX,Royalty Pharma Plc Cl A,Christopher Hite,V.Chair,Award,6168,0.0,249311,728510.0,2025-11-05,STK,Yes,1
+RPRX,Royalty Pharma Plc Cl A,George W Lloyd,CLO,Award,6168,0.0,249311,1135341.0,2025-11-05,STK,Yes,1
+KOP,Koppers Holdings Inc,Laura Posadas,N/A,Award,2240,0.0,62832,2240.0,2025-11-05,STK,Yes,1
+IEX,Idex Corp,Carl R Christenson,N/A,Buy,600,169.4112,101646,6351.0,2025-11-05,STK,Yes,1
+BWB,Bridgewater Bancshares Inc,Jerry J Baack,Chair & CEO,Sell,15561,16.5808,258014,1192361.0,2025-11-05,STK,Yes,1
+SKYQ,Sky Quarry Inc,Marcus G Laun,Pre./Int. CEO,Award,200000,0.0,79820,1492978.0,2025-11-05,STK,No,1
+MCS,Marcus Corp,David John Marcus,N/A,Award,911,0.0,14038,100911.0,2025-11-05,STK,Yes,1
+KHC,Kraft Heinz Company,Flavio Torres,EVP & Chief Supp,Award,31069,0.0,750005,282414.0,2025-11-05,STK,Yes,1
+WEAV,Weave Communications Inc,Tyler Newton,N/A,Sell,50993,6.68,340634,370242.0,2025-11-05,STK,Yes,1
+COCO,The Vita Coco Company Inc,Ira Liran,N/A,Sell,50000,41.4058,2070290,1200920.0,2025-11-05,STK,Yes,1
+RPRX,Royalty Pharma Plc Cl A,Terrance P Coyne,CFO,Award,6168,0.0,249311,898900.0,2025-11-05,STK,Yes,1
+RCKY,Rocky Brands Inc,Byron Wortham,Div. Sr.VP,Sell,4200,29.8983,125574,0.0,2025-11-05,STK,No,1
+LQDA,Liquidia Corp,Rajeev Saggar,Chf Med Off.,Sell,71381,27.0,1927287,176549.0,2025-11-05,STK,Yes,1
+VCYT,Veracyte Inc,Evan Jones,N/A,Sell,13196,45.0571,594573,30468.0,2025-11-05,STK,Yes,1
+EXP,Eagle Materials Inc,David E Rush,N/A,Buy,1000,208.08,208080,4173.0,2025-11-05,STK,Yes,1
+LPLA,Lpl Financial Holdings,Greg Gates,CTO,Sell,1500,376.4315,564648,15370.0,2025-11-05,STK,Yes,1
+SKYQ,Sky Quarry Inc,Todd Mitchell Palin,N/A,Award,150000,0.0,59865,233334.0,2025-11-05,STK,No,1
+SKYQ,Sky Quarry Inc,Leo B Womack,N/A,Award,150000,0.0,59865,233334.0,2025-11-05,STK,No,1
+HRB,H&R Block,Matt Winter,N/A,Award,3927,0.0,198628,59083.0,2025-11-05,STK,Yes,1
+HRB,H&R Block,Victoria J Reich,N/A,Award,3927,0.0,198628,120846.0,2025-11-05,STK,Yes,1
+HRB,H&R Block,Mia Mends,N/A,Award,3927,0.0,198628,28428.0,2025-11-05,STK,Yes,1
+ITW,Illinois Tool Works Inc,Pamela B Strobel,N/A,Sell,1521,245.25,373025,38215.0,2025-11-05,STK,Yes,1
+SBCF,Seacoast Banking Corp,James C Stallings III,CCO,Sell,3245,30.87,100173,15603.0,2025-11-05,STK,Yes,1
+HRB,H&R Block,Richard A Johnson,Chair,Award,10209,0.0,516371,91277.0,2025-11-05,STK,Yes,1
+HRB,H&R Block,Anuradha Gupta,N/A,Award,3927,0.0,198628,43280.0,2025-11-05,STK,Yes,1
+HRB,H&R Block,Robert A Gerard,N/A,Award,3927,0.0,198628,337262.0,2025-11-05,STK,Yes,1
+HRB,H&R Block,Sean H Cohan,N/A,Award,3927,0.0,198628,28428.0,2025-11-05,STK,Yes,1
+FLYW,Flywire Corp Voting,Peter Butterfield,Gen Cou & CCO,Sell,1000,15.0,15000,393522.0,2025-11-05,STK,Yes,1
+FLOC,Flowco Holdings Inc Cl A,Chad Roberts,Div. EVP,Sell,55173,18.2636,1007658,332327.0,2025-11-05,STK,No,1
+VCYT,Veracyte Inc,Rebecca Chambers,CFO,Sell,7000,41.0,287000,126158.0,2025-11-05,STK,Yes,1
+VCYT,Veracyte Inc,Karin Eastham,N/A,Sell,9674,40.0239,387191,13554.0,2025-11-05,STK,Yes,1
+VCYT,Veracyte Inc,Annie Mcguire,Gen Cou,Sell,6466,40.0,258640,82973.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Jason Conley,N/A,Award,204,0.0,250000,204.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Tracy A Embree,N/A,Award,204,0.0,250000,204.0,2025-11-05,STK,Yes,1
+CHTR,Charter Communications Inc,David C Merritt,N/A,Sell,1200,226.18,271416,10146.0,2025-11-05,STK,Yes,1
+RPRX,Royalty Pharma Plc Cl A,Pablo Legorreta,Chair & CEO,Award,36559,0.0,1477715,4545330.0,2025-11-05,STK,Yes,1
+AON,AON Plc,Darren Zeidel,Gen Cou & Sec,Sell,8800,344.5248,3031819,20253.0,2025-11-05,STK,Yes,1
+THRY,Thryv Holdings Inc,John Slater,Lead Indpdt. Dir,Buy,1500,7.0673,10601,35370.0,2025-11-05,STK,Yes,1
+VENU,Venu Holding Corp,Kevin Wayne O'neil,N/A,Sell,476190,13.44,6399994,3640467.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Jamie Samath,N/A,Award,204,0.0,250000,378.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Jeneanne Michelle Hanley,N/A,Award,204,0.0,250000,4101.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Kevin J Kennedy,N/A,Award,204,0.0,250000,8036.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Victor Peng,N/A,Award,204,0.0,250000,5816.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Susan Jennifer Simone Taylor,N/A,Award,204,0.0,250000,370.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Michael R Mcmullen,N/A,Award,204,0.0,250000,1179.0,2025-11-05,STK,Yes,1
+KLAC,K L A-Tencor Corp,Robert M. Calderoni,Chair,Award,257,0.0,314998,15220.0,2025-11-05,STK,Yes,1
+TER,Teradyne Inc,Mercedes Johnson,N/A,Sell,625,177.05,110656,11364.0,2025-11-05,STK,Yes,1
+VIR,Vir Biotechnology Inc,Vanina De Verneuil,Gen Cou,Sell,2385,5.16,12307,78210.0,2025-11-05,STK,Yes,1
+ALNT,Allient Inc,Richard D Federico,Lead Indpdt. Dir,Award,513,0.0,27450,76130.0,2025-11-05,STK,Yes,1
+ALNT,Allient Inc,Robert B Engel,N/A,Award,443,0.0,23706,36363.0,2025-11-05,STK,Yes,1
+ALNT,Allient Inc,Steven C Finch,N/A,Award,443,0.0,23706,12631.0,2025-11-05,STK,Yes,1
+ALNT,Allient Inc,Nicole R Tzetzo,N/A,Award,443,0.0,23706,14458.0,2025-11-05,STK,Yes,1
+ALNT,Allient Inc,Michael R Winter,N/A,Award,443,0.0,23706,39814.0,2025-11-05,STK,Yes,1
+CXDO,Crexendo Inc,Jeffrey G Korn,Chair & CEO,Sell,9581,7.1401,68409,240398.0,2025-11-05,STK,Yes,1
+CXDO,Crexendo Inc,Ron Vincent,CFO,Sell,14597,7.05,102909,175809.0,2025-11-05,STK,Yes,1
+AGRI,Agriforce Growing Systems Ltd,Amy Griffith,N/A,Award,30612,0.0,85713,51709.0,2025-11-05,STK,No,1
+MSM,Msc Industrial Direct Company,Erik Gershwind,CEO,Award,771,0.0,66806,2132845.0,2025-11-05,STK,Yes,1
+VKQ,Invesco Muni Trust,Timothy M O'reilly,Port Mngr,Buy,5200,9.618,50014,10747.0,2025-11-05,UIT,No,11
+CCNE,Cnb Financial Corp,Michael D Peduzzi,CEO,Buy,1100,24.63,27093,46043.0,2025-11-05,STK,Yes,1
+FMC,FMC Corp,Carol  (John) Anthony Davidson,N/A,Buy,10000,13.5957,135957,23227.0,2025-11-05,STK,Yes,1
+NXPI,Nxp Semiconductors,Andrew Hardy,Chf Sales Off.,Award,742,0.0,156146,2865.0,2025-11-05,STK,Yes,1
+NXPI,Nxp Semiconductors,Christopher L Jensen,HR,Award,1335,0.0,280937,8000.0,2025-11-05,STK,Yes,1
+NXPI,Nxp Semiconductors,Jennifer B Wuamett,Gen Cou & Sec,Award,1335,0.0,280937,19984.0,2025-11-05,STK,Yes,1
+NXPI,Nxp Semiconductors,Bill Betz,CFO,Award,1558,0.0,327865,3997.0,2025-11-05,STK,Yes,1
+NXPI,Nxp Semiconductors,Andrew Micallef,VP of Ops,Award,1335,0.0,280937,8621.0,2025-11-05,STK,Yes,1
+NXPI,Nxp Semiconductors,Rafael Sotomayor,CEO,Award,1558,0.0,327865,6980.0,2025-11-05,STK,Yes,1
+SHOP,Shopify Inc,Jean Niehaus,Gen Cou,Sell,1008,165.61,166936,2852.0,2025-11-05,STK,Yes,1
+RBRK,Rubrik Inc Cl A,Kiran Kumar Choudary,CFO,Sell,3500,72.29,253015,510551.0,2025-11-05,STK,Yes,1
+AVO,Mission Produce Inc,American Shareholder,N/A,Buy,49839,11.6902,582628,7165027.0,2025-11-05,STK,Yes,1
+WDC,Western Digital Corp,Martin I Cole,Chair,Sell,10000,161.3212,1613212,39504.0,2025-11-05,STK,Yes,1
+APPN,Appian Corp Cl A,Christopher Winters,N/A,Award,6104,0.0,179031,29782.0,2025-11-05,STK,Yes,1
+LTRX,Lantronix Inc,James C Auker,N/A,Award,10387,0.0,48300,10387.0,2025-11-05,STK,Yes,1
+LTRX,Lantronix Inc,Sailesh Chittipeddi,N/A,Award,13751,0.0,63943,23751.0,2025-11-05,STK,Yes,1
+RITM,Rithm Capital Corp,Michael Nierenberg,Chair & CEO,Sell,297140,10.9969,3267619,1535690.0,2025-11-05,STK,Yes,1
+PAHC,Phibro Anl Htlh A,Jack C Bendheim,Chair & CEO,Sell,7040,42.1561,296778,79240.0,2025-11-05,STK,Yes,1
+DINO,HF Sinclair Corp,Vivek Garg,CAO,Sell,314,53.28,16730,3609.0,2025-11-05,STK,Yes,1
+AXTI,Axt Inc,Dr David C Chang,N/A,Sell,100000,8.9404,894041,207744.0,2025-11-05,STK,Yes,1
+GSAT,Globalstar,Rebecca S Clary,CFO,Award,9524,0.0,486963,120376.0,2025-11-05,STK,Yes,1
+IOT,Samsara Inc Cl A,John Bicket,CTO,Sell,170000,38.891,6611470,935989.0,2025-11-05,STK,Yes,1
+IOT,Samsara Inc Cl A,Sanjit Biswas,Chair & CEO,Sell,160000,38.9045,6224721,1542213.0,2025-11-05,STK,Yes,1
+AVBC,Avidia Bancorp Inc,Robert D Cozzone,CEO,Buy,3277,15.2597,50006,54059.0,2025-11-05,STK,No,1
+TAP,Molson Coors Brewing Company,David S Coors,N/A,Buy,2245,44.465,99823,375465.0,2025-11-05,STK,Yes,1
+RFM,Rivernorth Flexible Municipal Income Fund Inc,American Shareholder,N/A,Buy,2165,14.45,31284,18675.0,2025-11-05,UIT,No,11
+RMI,Rivernorth Opportunistic Municipal Income Fund,American Shareholder,N/A,Buy,1226,14.6665,17981,42731.0,2025-11-05,UIT,No,11
+HRTG,Heritage Insurance Holdings,Kirk Lusk,CFO,Sell,20000,24.1758,483515,558756.0,2025-11-05,STK,Yes,1
+STAG,Stag Industrial Inc,Michael C Chase,Chf Inv Of,Sell,13144,38.748,509303,9422.0,2025-11-05,STK,Yes,1
+JMSB,John Marshall Bk Fal,Jonathan Craig Kinney,Chair,Buy,1200,18.7875,22546,606411.0,2025-11-05,STK,Yes,1
+ADI,Analog Devices,Ray Stata,N/A,Sell,6250,232.8572,1455357,791667.0,2025-11-05,STK,Yes,1
+AIR,AAR Corp,John Mcclain Holmes,Chair & CEO,Sell,38462,83.501,3211615,260141.0,2025-11-05,STK,Yes,1
+RXRX,Recursion Pharmaceuticals Inc Cl A,Dr Najat Khan,Chf Com Off.,Award,84925,0.0,421228,753122.0,2025-11-05,STK,Yes,1
+TEAM,Atlassian Corp,Michael Cannon-Brookes,CEO,Sell,7665,162.6603,1246791,291270.0,2025-11-05,STK,Yes,1
+EXPD,Expeditors Intl,Jeffrey F Dickerman,Gen Cou & Sec,Sell,1500,134.17,201256,6151.0,2025-11-05,STK,Yes,1
+FENC,Fennec Pharmaceuticals Inc,Rostislav Christov Raykov,N/A,Sell,4792,8.1,38815,82318.0,2025-11-05,STK,Yes,1
+OHI,Omega Healthcare Investors,Charles Taylor Pickett,CEO,Buy,20000,43.1428,862856,24100.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Christine Mundkur,N/A,Award,1067,0.0,209975,7536.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Robert W Musslewhite,N/A,Award,1067,0.0,209975,2116.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Sudhakar Ramakrishna,N/A,Award,1067,0.0,209975,2116.0,2025-11-05,STK,Yes,1
+CSTL,Castle Biosciences Inc,Derek J Maetzold,CEO,Sell,9373,30.8416,289079,314987.0,2025-11-05,STK,Yes,1
+TEAM,Atlassian Corp,Scott Farquhar,N/A,Sell,7665,162.6606,1246793,291270.0,2025-11-05,STK,Yes,1
+RGT,Royce Global Trust Inc,Charles M Royce,Sr. Adviser,Sell,8432,12.61,106328,813795.0,2025-11-05,UIT,No,11
+OGN,Organon & Co.,Lynette Holzbaur,Contr.,Award,3037,0.0,19376,12948.0,2025-11-05,STK,Yes,1
+TCBI,Texas Capital Bncsh,Anna M Alvarado,CLO,Award,5170,0.0,440588,23555.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Robert Azelby,N/A,Award,1067,0.0,209975,4085.0,2025-11-05,STK,Yes,1
+LLY,Eli Lilly and Company,American Shareholder,N/A,Sell,219474,936.6282,205565537,93752410.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Michelle Brennan,N/A,Award,1067,0.0,209975,8086.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Sheri H Edison,N/A,Award,1067,0.0,209975,14848.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,David C Evans,N/A,Award,1067,0.0,209975,15373.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Patricia A Hemingway Hall,N/A,Award,1067,0.0,209975,32264.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Akhil Johri,N/A,Award,1067,0.0,209975,22868.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Gregory B Kenny,Chair,Award,1702,0.0,334937,64194.0,2025-11-05,STK,Yes,1
+CAH,Cardinal Health,Nancy Killefer,N/A,Award,1067,0.0,209975,27624.0,2025-11-05,STK,Yes,1
+EVCM,Evercommerce Inc,Eric Richard Remer,Chair & CEO,Sell,19200,11.295,216864,9186186.0,2025-11-05,STK,Yes,1
+IART,Integra Lifesciences,Dr Jeffrey A Graves,N/A,Buy,9000,11.35,102150,41086.0,2025-11-05,STK,Yes,1
+CAT,Caterpillar Inc,William E Schaupp,CAO,Sell,1200,572.22,686664,1323.0,2025-11-05,STK,Yes,1
+SXI,Standex International Corp,Vineet Kshirsagar,CSO,Sell,650,233.37,151690,5047.0,2025-11-05,STK,Yes,1
+RMT,Royce Micro-Cap Trust,Charles M Royce,Advisor,Sell,200000,10.27,2054000,1080070.0,2025-11-05,UIT,No,11
+FMCB,Farmers & Merchants Bancorp,Kevin Sanguinetti,N/A,Buy,10,1043.0,10431,8442.0,2025-11-05,STK:OTC,No,1
+CSAI,Cloudastructure Inc Cl A,Sheldon Richard Bentley,N/A,Sell,50000,1.925,96250,100000.0,2025-11-05,STK,No,1
+TRC,Tejon Ranch Company,Norman J Metcalfe,Chair,Award,1423,0.0,22726,88187.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Jeffrey Joseph Mccall,N/A,Award,1814,0.0,28969,6299.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Eric H Speron,N/A,Award,1032,0.0,16481,3603.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Kenneth G Yee,N/A,Award,1032,0.0,16481,3249.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Gregory S Bielli,N/A,Award,1032,0.0,16481,446462.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Anthony L Leggio,N/A,Award,1267,0.0,20233,55006.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Steven A Betts,N/A,Award,1502,0.0,23987,47868.0,2025-11-05,STK,Yes,1
+TRC,Tejon Ranch Company,Denise A Gammon,N/A,Award,1032,0.0,16481,3603.0,2025-11-05,STK,Yes,1
+NSC,Norfolk Southern Corp,Sameh Fahmy,N/A,Buy,1650,282.97,466900,12000.0,2025-11-05,STK,Yes,1
+TEAF,Tortoise Sustainable and Social Impact Term Fund,American Shareholder,N/A,Sell,340213,12.4336,4230072,1189792.0,2025-11-05,UIT,No,11
+AFB,Alliance National Municipal,American Shareholder,N/A,Sell,53120,11.0016,584405,2888862.0,2025-11-05,UIT,No,11
+MEGI,Nyli CBRE Global Infrastructure Megatrends Term,American Shareholder,N/A,Sell,79337,13.9765,1108854,5970260.0,2025-11-05,UIT,No,11
+ASA,ASA Gold and Precious Metals,American Shareholder,N/A,Buy,20998,44.4984,934377,5166512.0,2025-11-05,UIT,Yes,11
+ECAT,Blackrock ESG Capital Allocation Trust,American Shareholder,N/A,Sell,52969,16.3,863395,27174673.0,2025-11-05,UIT,No,11
+NQP,Nuveen Pennsylvania Investment,American Shareholder,N/A,Sell,99341,12.0641,1198460,4309222.0,2025-11-05,UIT,No,11
+AREC,American Resources Corp,American Shareholder,N/A,Sell,211865,4.0141,850447,11178095.0,2025-11-05,STK,Yes,1
+BPRN,Princeton Bancorp Inc,Martin Tuchman,N/A,Buy,2003,32.2505,64598,768982.0,2025-11-05,STK,No,1
+CSBB,Csb Bancorp Inc,Vikki G Briggs,N/A,Buy,600,51.0,30600,15395.0,2025-11-05,STK:OTC,No,1
+VICR,Vicor Corp,Robert Gendron,Mktg,Sell,5374,94.0,505155,0.0,2025-11-05,STK,Yes,1
+GCBC,Greene County Bncp,Tejraj S Hada,N/A,Buy,1545,22.5107,34779,24557.0,2025-11-05,STK,No,1
+TDUP,Thredup Inc Cl A,Daniel J Nova,N/A,Buy,65000,8.0354,522300,607807.0,2025-11-05,STK,Yes,1
+IDCC,Interdigital Inc,Dr. Rajesh Pankaj,CTO,Sell,964,375.31,361799,64157.0,2025-11-05,STK,Yes,1
+NVCT,Nuvectis Pharma Inc,Matthew L Kaplan,N/A,Buy,11000,5.84,64240,124760.0,2025-11-05,STK,Yes,1
+NVCT,Nuvectis Pharma Inc,Dr Juan Sanchez,N/A,Buy,13000,5.79,75270,78565.0,2025-11-05,STK,Yes,1
+NVCT,Nuvectis Pharma Inc,Ron Bentsur,Chair & CEO,Buy,5000,5.72,28600,3525924.0,2025-11-05,STK,Yes,1
+BNTX,Biontech Se ADR,Helmut Wolfgang Jeggle,Chair,Sell,150000,103.43,15514501,875967.0,2025-11-05,STK,Yes,1
+BE,Bloom Energy Corp Cl A,The Honourable Mary K Bush,N/A,Sell,36000,142.82,5141520,133524.0,2025-11-05,STK,Yes,1
+AXTI,Axt Inc,Gary L Fischer,CFO,Sell,32455,9.2088,298871,485969.0,2025-11-05,STK,Yes,1
+CORT,Corcept Therapeutics,Dr Joseph K Belanoff,CEO,Sell,40000,74.578,2983119,2741370.0,2025-11-05,STK,Yes,1
+BTM,Bitcoin Depot Inc,Brandon Taylor Mintz,Chair & CEO,Sell,349736,2.6125,913685,0.0,2025-11-05,STK,Yes,1
+ARQT,Arcutis Biotherapeutics Inc,Dr Patrick Burnett,CMO,Sell,3864,23.7172,91643,98325.0,2025-11-05,STK,Yes,1
+ALK,Alaska Air Group,Benito Minicucci,CEO,Award,3942,0.0,159336,157911.0,2025-11-05,STK,Yes,1
+AEHR,Aehr Test Systems,Howard T Slayen,N/A,Sell,6000,25.7262,154357,218328.0,2025-11-05,STK,Yes,1
+APG,Api Group Corp,Sir Martin E Franklin,Co-Chair,Sell,900000,35.9364,32342759,19527403.0,2025-11-05,STK,Yes,1
+OSPN,Onespan Inc,Michael Mcconnell,N/A,Buy,50000,11.96,598000,83763.0,2025-11-05,STK,Yes,1
+ZIP,Ziprecruiter Inc Cl A,Ian H Siegel,CEO,Sell,29166,4.1305,120470,422679.0,2025-11-05,STK,Yes,1
+ZIP,Ziprecruiter Inc Cl A,Timothy G Yarbrough,CFO,Sell,6069,4.0549,24610,393761.0,2025-11-05,STK,Yes,1
+CNS,Cohn & Steers Inc,Asst.Prof.Dr Robert Hamilton Steers,Co-Chair,Buy,100888,67.984,6858770,11965682.0,2025-11-05,STK,Yes,1
+UWMC,Uwm Hldg Corp,Mat Ishbia,Chair & CEO,Sell,1192712,5.725,6828276,5916245.0,2025-11-05,STK,Yes,1
+PB,Prosperity Bancshares,Ned S Holmes,N/A,Sell,1100,66.8371,73521,324018.0,2025-11-05,STK,Yes,1
+STX,Seagate Technology Hldgs Plc,Ban Seng Teh,Chf Com Off.,Sell,6000,270.0,1620000,12041.0,2025-11-05,STK,Yes,1
+PLXS,Plexus Corp,Todd P Kelsey,CEO,Sell,4000,144.3,577200,58714.0,2025-11-05,STK,Yes,1
+PATH,Uipath Inc Cl A,Daniel Dines,Chair & CEO,Sell,45000,15.0748,678365,29288585.0,2025-11-05,STK,Yes,1
+NCSM,Ncs Multistage Holdings Inc,Robert Nipper,N/A,Sell,1000,40.0,40000,122051.0,2025-11-05,STK,No,1
+ATGE,Adtalem Global Education Inc,Kenneth J Phelan,N/A,Buy,508,98.29,49931,18783.0,2025-11-05,STK,Yes,1
+NXG,Nxg Nextgen Infrastructure Income Fund,John Howard Alban,N/A,Buy,1000,50.38,50380,1000.0,2025-11-05,UIT,No,11
+GBCI,Glacier Bancorp Inc,Ron J Copher,CFO & Treas,Buy,2400,41.17,98809,127775.0,2025-11-05,STK,Yes,1
+GBCI,Glacier Bancorp Inc,Randall Chesler,CEO,Buy,2437,40.91,99698,134077.0,2025-11-05,STK,Yes,1
+VIRT,Virtu Financial Cm A,Virginia Gambale,N/A,Sell,3875,34.57,133958,26928.0,2025-11-04,STK,Yes,1
+OPXS,Optex Systems Hlds,Judd Dayton,N/A,Award,4000,0.0,66960,862606.0,2025-11-04,STK,No,1
+OPXS,Optex Systems Hlds,Rahul Rimmy Malhotra,N/A,Award,4000,0.0,66960,100165.0,2025-11-04,STK,No,1
+OPXS,Optex Systems Hlds,Dale E Lehmann,N/A,Award,4000,0.0,66960,122721.0,2025-11-04,STK,No,1
+DNLI,Denali Therapeutics Inc,Timothy Van Hauwermeiren,N/A,Award,10632,0.0,158629,10632.0,2025-11-04,STK,Yes,1
+PEN,Penumbra Inc,Harpreet Grewal,N/A,Sell,186,227.58,42330,8516.0,2025-11-04,STK,Yes,1
+PSTG,Pure Storage Inc,Patrick S Finn,Chf Revenue Of,Award,92896,0.0,8834410,93951.0,2025-11-04,STK,Yes,1
+HOLX,Hologic Inc,Stephen P Macmillan,Chair & CEO,Award,83589,0.0,6194781,2465042.0,2025-11-04,STK,Yes,1
+ROAD,Construction Partners Inc Cl A,Robert G Baugnon,SVP.,Award,4565,0.0,511372,26798.0,2025-11-04,STK,Yes,1
+ROAD,Construction Partners Inc Cl A,Gregory A Hoffman,CFO,Award,6601,0.0,739445,43744.0,2025-11-04,STK,Yes,1
+ROAD,Construction Partners Inc Cl A,Judson Ryan Brooks,Gen Cou,Award,5229,0.0,585752,30483.0,2025-11-04,STK,Yes,1
+ROAD,Construction Partners Inc Cl A,Fred Julius Smith iii,CEO,Award,19721,0.0,2209146,69329.0,2025-11-04,STK,Yes,1
+ROAD,Construction Partners Inc Cl A,Ned N Fleming IV,Bus Dev,Award,4565,0.0,511372,55426.0,2025-11-04,STK,Yes,1
+CRC,California Resources Corp,Christopher D Gould,Div. EVP,Award,26472,0.0,1234918,140567.0,2025-11-04,STK,Yes,1
+SYM,Symbotic Inc,Todd Krasnow,N/A,Sell,4000,76.7514,307005,40000.0,2025-11-04,STK,Yes,1
+SEI,Solaris Energy Infrastructure Inc,American Shareholder,N/A,Sell,2114783,50.15,106056368,0.0,2025-11-04,STK,Yes,1
+W,Wayfair Inc,Kate Gulliver,CFO,Sell,9612,102.2,982346,175497.0,2025-11-04,STK,Yes,1
+EBAY,Ebay Inc,Jordan Douglas Bradley Sweetnam,Chf Com Off.,Sell,861,81.5402,70207,2862.0,2025-11-04,STK,Yes,1
+META,Meta Platforms Inc,Jennifer Newstead,CLO,Sell,519,628.0,325932,27237.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Douglas R Mcandrew,EVP,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CIFR,Cipher Mining Inc,Will Iwaschuk,Co-Pres.,Sell,173094,22.52,3898077,1054488.0,2025-11-04,STK,Yes,1
+COF,Capital One Financial Corp,Richard D Fairbank,Chair & CEO,Sell,50000,220.6845,11034225,4001228.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Timothy F Ryan,CLO & Sec.,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Giovanni Gallara,Chf Clinical Off,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Michael A Kosuth,COO,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Greg M Gilbert,EVP,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,John A Delorimier,EVP,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Jonathan P Conser,CGO,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,John Robert Anderson JR,CMO,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Su Zan Nelson,CAO,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+HOOD,Robinhood Markets Inc Cl A,Steven M Quirk,Chf Off.,Sell,24175,140.6138,3399339,70279.0,2025-11-04,STK,Yes,1
+JBLU,Jetblue Airways Corp,Peter Boneparth,Chair,Buy,50000,4.12,206000,110398.0,2025-11-04,STK,Yes,1
+AGYS,Agilysys Inc,William David Wood iii,CFO,Sell,236,125.2,29548,41052.0,2025-11-04,STK,Yes,1
+CWST,Casella Waste Sys,Emily Nagle Green,N/A,Sell,1116,89.38,99748,22486.0,2025-11-04,STK,Yes,1
+ORLY,O'Reilly Automotive,John R Murphy,N/A,Sell,3125,92.6004,289376,12685.0,2025-11-04,STK,Yes,1
+MTDR,Matador Resources Company,Reynald A Baribault,N/A,Buy,400,38.49,15396,145725.0,2025-11-04,STK,Yes,1
+WCC,Wesco International,Diane E Lazzaris,Gen Cou,Sell,7522,255.9968,1925608,45401.0,2025-11-04,STK,Yes,1
+EXAS,Exact Sciences Cor,Brian Baranick,Div. GM,Sell,2858,70.08,200288,23038.0,2025-11-04,STK,Yes,1
+CASH,Pathward Financial Inc,Brett L Pharr,CEO,Award,34718,0.0,2326801,80792.0,2025-11-04,STK,Yes,1
+CASH,Pathward Financial Inc,Anthony M Sharett,Pres.,Award,13612,0.0,912276,34379.0,2025-11-04,STK,Yes,1
+CASH,Pathward Financial Inc,Charles C Ingram,CIO,Award,4598,0.0,308158,28541.0,2025-11-04,STK,Yes,1
+CASH,Pathward Financial Inc,Nadia Dombrowski,CLO,Award,4545,0.0,304606,9648.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Matthew T Dicanio,CFO,Award,180000,0.0,3484800,360000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Michael D Rhine,EVP,Award,40000,0.0,774400,80098.0,2025-11-04,STK,Yes,1
+EXAS,Exact Sciences Cor,James Herriott,VP/GC/Secy,Sell,1500,70.08,105120,14141.0,2025-11-04,STK,Yes,1
+MSM,Msc Industrial Direct Company,Julie Valsa Rockett,Div. VP.,Award,231,0.0,19977,1365.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Robert A Ortenzio,N/A,Award,7748,0.0,150001,8268222.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Vipin Gopal,N/A,Award,15496,0.0,300002,15496.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,William Keith Newton,CEO,Award,225000,0.0,4356000,482831.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Daniel Thomas,N/A,Award,7748,0.0,150001,74000.0,2025-11-04,STK,Yes,1
+CRC,California Resources Corp,Francisco J Leon,CEO,Award,84710,0.0,3951722,299409.0,2025-11-04,STK,Yes,1
+CRC,California Resources Corp,Michael L Preston,Gen Cou & Sec,Award,47649,0.0,2222826,116727.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Danielle Kendall,HR,Award,40000,0.0,774400,80000.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Thomas A Devasia,CMO,Award,60000,0.0,1161600,120000.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Leslie Shane Jones,CFO,Award,4004,0.0,55055,108592.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Nathan G Brower,Gen Cou,Award,3243,0.0,44591,50535.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Martin A Gonzalez,Global Ops,Award,5795,0.0,79681,69640.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Bryant J Yates,Reg. EVP,Award,3940,0.0,54175,100304.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Daniel C. Norman,EVP,Award,3940,0.0,54175,75520.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Jonathan D Lanoy,CAO,Award,1796,0.0,24696,51233.0,2025-11-04,STK,Yes,1
+KBH,KB Home,Albert Z Praw,EVP Bus Dev,Sell,20284,60.08,1218663,104062.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Brigid Bonner,N/A,Award,15496,0.0,300002,15496.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Marc R Watkins,N/A,Award,7748,0.0,150001,20740.0,2025-11-04,STK,Yes,1
+CRC,California Resources Corp,Jay A Bys,Chf Com Off.,Award,26472,0.0,1234918,168635.0,2025-11-04,STK,Yes,1
+CRC,California Resources Corp,Clio C. Crespy,CFO,Award,42355,0.0,1975860,89376.0,2025-11-04,STK,Yes,1
+CRC,California Resources Corp,Omar Hayat,COO,Award,42355,0.0,1975860,95038.0,2025-11-04,STK,Yes,1
+CON,Concentra Group Holdings Parent Inc,Dr Cheryl Pegus,N/A,Award,7748,0.0,150001,20740.0,2025-11-04,STK,Yes,1
+COF,Capital One Financial Corp,Matthew W Cooper,Gen Cou & Co Sec,Sell,2000,219.41,438820,96486.0,2025-11-04,STK,Yes,1
+VMC,Vulcan Materials Company,Thompson S Baker Ii,Pres.,Sell,5818,292.26,1700375,51728.0,2025-11-04,STK,Yes,1
+RXRX,Recursion Pharmaceuticals Inc Cl A,Christopher Gibson,CEO,Sell,40000,5.21,208400,954229.0,2025-11-04,STK,Yes,1
+HOLX,Hologic Inc,Karleen Marie Oberton,CFO,Award,17095,0.0,1266910,119203.0,2025-11-04,STK,Yes,1
+HOLX,Hologic Inc,Jan Verstreken,Div. Pres.,Award,15196,0.0,1126176,119010.0,2025-11-04,STK,Yes,1
+HOLX,Hologic Inc,Essex D Mitchell,COO,Award,9116,0.0,675587,37474.0,2025-11-04,STK,Yes,1
+HOLX,Hologic Inc,Benjamin Jordan Cohn,PAO,Award,2656,0.0,196836,14283.0,2025-11-04,STK,Yes,1
+HOLX,Hologic Inc,Mark W Horvath,Div. Pres.,Award,2278,0.0,168822,9681.0,2025-11-04,STK,Yes,1
+ETSY,Etsy Inc,Richard Edward Colburn iii,CTO,Sell,3200,57.8,184960,4387.0,2025-11-04,STK,Yes,1
+HII,Huntington Ingalls Industries,Victoria D Harker,N/A,Sell,1000,316.605,316605,2523.0,2025-11-04,STK,Yes,1
+SGMT,Sagimet Biosciences Inc Series A,Elizabeth Rozek,Gen Cou & CCO,Award,9855,0.0,74996,193581.0,2025-11-04,STK,Yes,1
+ZM,Zoom Communications Inc,Santiago Subotovsky,N/A,Sell,2475,84.1462,208262,152557.0,2025-11-04,STK,Yes,1
+RMCF,Rocky MT Chocolate,Jeffrey Richart Geygan,Int. CEO,Buy,8935,1.6389,14643,1973134.0,2025-11-04,STK,No,1
+CORZ,Core Scientific Inc,Eric Weiss,N/A,Buy,5000,21.5,107500,226687.0,2025-11-04,STK,Yes,1
+HII,Huntington Ingalls Industries,Nicolas G Schuck,CAO,Sell,466,314.355,146389,2418.0,2025-11-04,STK,Yes,1
+NXPI,Nxp Semiconductors,Jennifer B Wuamett,Gen Cou & Sec,Sell,7413,207.0063,1534537,19175.0,2025-11-04,STK,Yes,1
+LAUR,Laureate Education Inc,Marcelo Cardoso,COO,Sell,70000,29.0,2030000,311165.0,2025-11-04,STK,Yes,1
+ENR,Energizer Holdings Inc,Sara B Hampton,CAO,Award,1534,0.0,36080,5719.0,2025-11-04,STK,Yes,1
+FSLR,First Solar Inc,Georges J Antoun,Chf Com Off.,Sell,37412,265.0122,9914636,15424.0,2025-11-04,STK,Yes,1
+TVTX,Travere Therapeutics Inc,Sandra Calvin,PAO,Sell,5865,36.0,211140,48545.0,2025-11-04,STK,Yes,1
+SNBR,Sleep Number Corp,Stephen L Gulis Jr,N/A,Award,49746,0.0,273603,98085.0,2025-11-04,STK,Yes,1
+TZOO,Travelzoo Inc,American Shareholder,N/A,Sell,10000,7.75,77500,3782696.0,2025-11-04,STK,Yes,1
+DASH,Doordash Inc Cl A,Ashley Still,N/A,Sell,63,239.66,15099,6265.0,2025-11-04,STK,Yes,1
+PSMT,Pricesmart Inc,John D Hildebrandt,COO,Sell,10000,115.1,1151000,116473.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Richard Reich,Gen Cou & Sec,Award,7060,0.0,316641,35494.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Amy Cradic,Div. Sr.VP,Award,12917,0.0,579327,52057.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Roberto Bel,CFO,Award,5583,0.0,250397,25885.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Lori Delgiudice,HR,Award,6716,0.0,301213,20815.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Stephen Skrocki,PAO,Award,1263,0.0,56646,7129.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Stephen D Westhoven,CEO,Award,51189,0.0,2295826,247786.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Jacqueline K Shea,CIO,Award,7938,0.0,356019,40364.0,2025-11-04,STK,Yes,1
+NJR,Newjersey Resources Corp,Patrick J Migliaccio,COO,Award,11501,0.0,515820,42011.0,2025-11-04,STK,Yes,1
+PNC,PNC Bank,Michael Duane Thomas,VP.,Sell,1000,183.573,183572,5802.0,2025-11-04,STK,Yes,1
+CALX,Calix Inc,Carl Russo,Chair,Sell,420000,64.0937,26919353,5461040.0,2025-11-04,STK,Yes,1
+NIC,Nicolet Bankshares Inc,Christopher J Ghidorzi,N/A,Buy,105,121.52,12760,11816.0,2025-11-04,STK,Yes,1
+TRMK,Trustmark Corp,Tracy T Conerly,N/A,Sell,8000,37.215,297720,14921.0,2025-11-04,STK,Yes,1
+AMRZ,Amrize Ltd,Jaime Hill,Div. Pres.,Buy,4000,50.685,202740,18101.0,2025-11-04,STK,Yes,1
+TTMI,TTM Technologies,Steven Spoto,Div. Pres.,Sell,1000,66.95,66950,27649.0,2025-11-04,STK,Yes,1
+BBT,Beacon Financial Corporation,Thomas J Hollister,N/A,Buy,4200,24.66,103572,30393.0,2025-11-04,STK,Yes,1
+BBT,Beacon Financial Corporation,Mary Anne Callahan,N/A,Buy,4000,24.67,98679,33374.0,2025-11-04,STK,Yes,1
+HNVR,Hanover Bancorp Inc,Robert Golden,Lead Indpdt. Dir,Sell,5000,21.2495,106247,410859.0,2025-11-04,STK,No,1
+TRC,Tejon Ranch Company,Andrew Dakos,N/A,Award,1032,0.0,16078,58493.0,2025-11-04,STK,Yes,1
+MTDR,Matador Resources Company,Joseph Wm Foran,Chair & CEO,Buy,4000,38.44,153760,5442525.0,2025-11-04,STK,Yes,1
+TFII,Tfi International Inc,Leslie R Abi-Karam,N/A,Buy,1707,87.65,149619,7142.0,2025-11-04,STK,Yes,1
+AVPT,Avepoint Inc Cl A,Xunkai Gong,Chair,Sell,60000,13.9111,834666,15040668.0,2025-11-04,STK,Yes,1
+FLEX,Flextronics Intl Ltd,Michael P Hartung,Chf Com Off.,Sell,15000,62.2599,933899,226198.0,2025-11-04,STK,Yes,1
+THC,Tenet Healthcare Corp,Tammy Romo,N/A,Sell,26855,202.2331,5430970,35511.0,2025-11-04,STK,Yes,1
+OSPN,Onespan Inc,Marc Zenner,N/A,Buy,2000,12.1299,24260,73273.0,2025-11-04,STK,Yes,1
+ZM,Zoom Communications Inc,Eric S Yuan,Chair & CEO,Sell,146756,85.1537,12496816,0.0,2025-11-04,STK,Yes,1
+CAG,Conagra Brands Inc,Melissa C Napier,Div. Sr.VP,Sell,13011,17.19,223659,0.0,2025-11-04,STK,Yes,1
+MSM,Msc Industrial Direct Company,Erik Gershwind,CEO,Award,818,0.0,70651,2130127.0,2025-11-04,STK,Yes,1
+MSM,Msc Industrial Direct Company,Martina Mcisaac,COO,Award,194,0.0,16754,8271.0,2025-11-04,STK,Yes,1
+CHEF,The Chefs Warehouse,James F Leddy,CFO,Sell,22000,62.11,1366421,125892.0,2025-11-04,STK,Yes,1
+BEN,Franklin Resources,Jennifer Johnson,CEO,Award,414814,0.0,9370649,6824679.0,2025-11-04,STK,Yes,1
+TRC,Tejon Ranch Company,Daniel R Tisch,N/A,Award,2049,0.0,31924,84125.0,2025-11-04,STK,Yes,1
+NVTS,Navitas Semiconductor Corp,Dipender Saluja,N/A,Award,2045,0.0,21391,9324863.0,2025-11-04,STK,Yes,1
+LAW,CS Disco Inc,Thomas F Bogan,N/A,Buy,7001,5.98,41865,171090.0,2025-11-04,STK,Yes,1
+ETR,Entergy Corp,Anastasia Minor,Chf Transform Of,Sell,5000,96.39,481950,11555.0,2025-11-04,STK,Yes,1
+BEN,Franklin Resources,Terrence Murphy,Co-Pres.,Award,46730,0.0,1055630,186159.0,2025-11-04,STK,Yes,1
+BEN,Franklin Resources,Thomas C Merchant,Gen Cou,Award,39182,0.0,885122,100703.0,2025-11-04,STK,Yes,1
+BEN,Franklin Resources,Matthew Nicholls,CO-Pres/CFO,Award,201409,0.0,4549830,599374.0,2025-11-04,STK,Yes,1
+BEN,Franklin Resources,Gregory E Johnson,Chair,Award,41668,0.0,941280,5950381.0,2025-11-04,STK,Yes,1
+VRSN,Verisign Inc,Thomas C Indelicarto,Gen Cou & Sec,Sell,334,244.52,81670,33855.0,2025-11-04,STK,Yes,1
+AWRE,Aware Inc,Ajay Amlani,CEO,Buy,15489,2.2344,34608,838041.0,2025-11-04,STK,Yes,1
+FLS,Flowserve Corp,Susan Claire Hudson,CLO,Sell,10667,70.01,746797,6589.0,2025-11-04,STK,Yes,1
+FLS,Flowserve Corp,Amy B Schwetz,CFO,Sell,47000,71.02,3337940,52628.0,2025-11-04,STK,Yes,1
+RMI,Rivernorth Opportunistic Municipal Income Fund,American Shareholder,N/A,Buy,6857,14.69,100730,41505.0,2025-11-04,UIT,No,11
+RFM,Rivernorth Flexible Municipal Income Fund Inc,American Shareholder,N/A,Buy,4257,14.405,61322,16510.0,2025-11-04,UIT,No,11
+VITL,Vital Farms Inc,Matthew Ohayer,Chair,Sell,30000,32.8982,986946,7133070.0,2025-11-04,STK,Yes,1
+CLOV,Clover Health Investments Corp,Jamie L Reynoso,Div. CEO,Sell,30385,3.58,108779,2793411.0,2025-11-04,STK,Yes,1
+V,Visa Inc,Lloyd Carney,N/A,Sell,900,336.48,302833,2468.0,2025-11-04,STK,Yes,1
+NATR,Nature S Sunshine,Kenneth G Romanzi,CEO,Award,102881,0.0,1414613,102881.0,2025-11-04,STK,Yes,1
+FHN,First Horizon Corp,Dr David T Popwell,Div. SEVP,Sell,155149,21.3122,3306566,310609.0,2025-11-04,STK,Yes,1
+DGICA,Donegal Group Cl A,American Shareholder,N/A,Buy,8000,18.713,149704,13662579.0,2025-11-04,STK,Yes,1
+CRBG,Corebridge Financial Inc,American Shareholder,N/A,Sell,32600000,31.1,1013860000,50111853.0,2025-11-04,STK,Yes,1
+LNG,Cheniere Energy,W Benjamin Moreland,N/A,Buy,5000,208.2192,1041095,9856.0,2025-11-04,STK,Yes,1
+CHWY,Chewy Inc,Satish Mehta,CTO,Sell,4642,32.65,151561,632230.0,2025-11-04,STK,Yes,1
+BX,Blackstone Inc,James W Breyer,N/A,Buy,13900,143.8586,1999635,68906.0,2025-11-04,STK,Yes,1
+RBLX,Roblox Corp Cl A,Anthony P Lee,Lead Indpdt. Dir,Sell,66000,104.0749,6868944,7853198.0,2025-11-04,STK,Yes,1
+MORN,Morningstar Inc,Joseph D Mansueto,Chair,Sell,14168,212.8174,3015197,14784774.0,2025-11-04,STK,Yes,1
+TCNNF,Trulieve Cannabis Corp,Matthew Foulston,N/A,Award,11329,0.0,74999,11329.0,2025-11-04,STK:OTC,No,1
+EIG,Employers Holdings Inc,Michael Pedraja,Fin & CFO,Buy,5500,37.09,203995,17830.0,2025-11-04,STK,Yes,1
+MYRG,MYR Group Inc,Don A. Egan,COO,Sell,2900,233.4002,676860,5797.0,2025-11-04,STK,Yes,1
+XYL,Xylem Inc,Victoria D Harker,N/A,Sell,1700,148.14,251838,16875.0,2025-11-04,STK,Yes,1
+ATO,Atmos Energy Corp,J Matt Robbins,HR,Award,5396,0.0,938635,29992.0,2025-11-04,STK,Yes,1
+ATO,Atmos Energy Corp,John Mcdill,Ops,Award,5396,0.0,938635,36733.0,2025-11-04,STK,Yes,1
+ATO,Atmos Energy Corp,John Kevin Akers,CEO,Award,32297,0.0,5618064,138400.0,2025-11-04,STK,Yes,1
+HBAN,Huntington Bancshares Inc,John (Chris) Inglis,N/A,Buy,6506,15.3,99542,100093.0,2025-11-04,STK,Yes,1
+PCG,Pacific Gas & Electric Company,John O Larsen,N/A,Buy,7500,15.96,119700,18111.0,2025-11-04,STK,Yes,1
+TEAM,Atlassian Corp,Michael Cannon-Brookes,CEO,Sell,7665,165.2435,1266592,298935.0,2025-11-04,STK,Yes,1
+TEAM,Atlassian Corp,Scott Farquhar,N/A,Sell,7665,165.2445,1266599,298935.0,2025-11-04,STK,Yes,1
+SPT,Sprout Social Inc Cl A,Justyn Russell Howard,Chair,Sell,20000,10.218,204360,7417.0,2025-11-04,STK,Yes,1
+CHCT,Community Healthcare Trust Inc,Cathrine Cotman,N/A,Buy,4000,14.66,58640,37635.0,2025-11-04,STK,Yes,1
+ATO,Atmos Energy Corp,Christopher T Forsythe,CFO,Award,7610,0.0,1323759,61037.0,2025-11-04,STK,Yes,1
+FOLD,Amicus Therapeutics,David Michael Clark,Chf People Off,Sell,25643,9.5098,243860,322618.0,2025-11-04,STK,Yes,1
+SPT,Sprout Social Inc Cl A,Joseph Del Preto,CFO,Sell,1500,10.22,15329,238868.0,2025-11-04,STK,Yes,1
+ATO,Atmos Energy Corp,Michelle H Faulk,Contr.,Award,336,0.0,58447,1092.0,2025-11-04,STK,Yes,1
+NTRS,Northern Trust Corp,Robert E Moritz jr.,N/A,Buy,3891,128.57,500266,6686.0,2025-11-04,STK,Yes,1
+ATO,Atmos Energy Corp,Karen E Hartsfield,Advisor,Award,5396,0.0,938635,33013.0,2025-11-04,STK,Yes,1
+LLY,Eli Lilly and Company,American Shareholder,N/A,Sell,526,910.719,479038,93931452.0,2025-11-04,STK,Yes,1
+PLNH,Planet 13 Holdings Inc,Christopher Brian Wren,Ops,Sell,60000,0.1986,11916,4845511.0,2025-11-04,STK:OTC,No,1
+BWA,Borgwarner Inc,Isabelle Mckenzie,Div. Head,Sell,3200,44.235,141552,43555.0,2025-11-04,STK,Yes,1
+SXT,Sensient Technologies Corp,David J Plautz,Treas,Buy,2150,92.98,199908,3223.0,2025-11-04,STK,Yes,1
+MTRX,Matrix Service Company,Martha Z Carnes,N/A,Award,7986,0.0,121946,71183.0,2025-11-04,STK,Yes,1
+ATI,Ati Inc,Timothy J Harris,CDO,Sell,10543,96.07,1012866,129937.0,2025-11-04,STK,Yes,1
+SCKT,Socket Mobile,Charlie Bass,N/A,Buy,10000,1.0092,10091,1613151.0,2025-11-04,STK,No,1
+MTRX,Matrix Service Company,Carlin G Conner,N/A,Award,7986,0.0,121946,55219.0,2025-11-04,STK,Yes,1
+MTRX,Matrix Service Company,Liane K Hinrichs,N/A,Award,7986,0.0,121946,64288.0,2025-11-04,STK,Yes,1
+MTRX,Matrix Service Company,James Harry Miller,N/A,Award,7986,0.0,121946,92078.0,2025-11-04,STK,Yes,1
+MTRX,Matrix Service Company,Jose Luis M Bustamante,N/A,Award,7986,0.0,121946,41624.0,2025-11-04,STK,Yes,1
+MTRX,Matrix Service Company,John D Chandler,N/A,Award,7986,0.0,121946,86039.0,2025-11-04,STK,Yes,1
+AROW,Arrow Financial Corp,Penko Krassimir Ivanov,CFO,Buy,1620,29.8197,48307,26394.0,2025-11-04,STK,Yes,1
+VIAV,Viavi Solutions,Donald A Colvin,N/A,Sell,40000,17.0902,683607,148524.0,2025-11-04,STK,Yes,1
+FUSB,First US Bancshares Inc,Robert S Briggs,N/A,Buy,10000,13.375,133750,65322.0,2025-11-04,STK,No,1
+SXI,Standex International Corp,Ademir Sarcevic,CFO & Treas,Sell,1823,230.12,419509,9341.0,2025-11-04,STK,Yes,1
+GOVB,Gouverneur Bancorp Inc,Duane M Pelkey,N/A,Buy,1000,14.9529,14953,5000.0,2025-11-04,STK:OTC,No,1
+WAB,Wabtec Corp,Rafael Santana,CEO,Sell,3596,203.642,732297,127739.0,2025-11-04,STK,Yes,1
+CPS,Cooper Std Holdings Inc,Jonathan P. Banas,CFO,Buy,1000,29.083,29083,53927.0,2025-11-04,STK,Yes,1
+NWE,Northwestern Energy Group Inc,Jeffrey W Yingling,N/A,Award,640,0.0,38944,22026.0,2025-11-04,STK,Yes,1
+NWE,Northwestern Energy Group Inc,Jan Robert Horsfall,N/A,Award,640,0.0,38944,9896.0,2025-11-04,STK,Yes,1
+GLPI,Gaming & Leisure,E Scott Urdang,N/A,Sell,4000,45.49,181960,129953.0,2025-11-04,STK,Yes,1
+UMBF,UMB Financial Corp,Nikki Farentino Newton,Div. Pres.,Sell,1300,106.09,137917,13733.0,2025-11-04,STK,Yes,1
+PSTV,Plus Therapeutics Inc,Andrew Sims,CFO,Buy,20000,0.51,10200,68138.0,2025-11-04,STK,No,1
+MNRO,Monro Muffler Brak,Carl Celian Icahn,N/A,Buy,639473,15.19,9713595,4439914.0,2025-11-04,STK,Yes,1
+GMGI,Golden Matrix Group Inc,Richard Christensen,CFO & PAO,Buy,25000,1.008,25200,120000.0,2025-11-04,STK,Yes,1
+ARQQ,Arqit Quantum Inc,Paul Feenan,Chf Revenue Of,Sell,363,39.407,14304,2021378.1586314153,2025-11-04,STK,Yes,1
+NTRA,Natera Inc,Dr Matthew Rabinowitz,Chair,Sell,22900,200.5098,4591674,2285852.0,2025-11-04,STK,Yes,1
+VSTD,Vestand Inc,James Chae,N/A,Sell,85708,0.5754,49316,2408798.0,2025-11-04,STK,No,1
+CVNA,Carvana Company Cl A,Greg Sullivan,N/A,Sell,2500,322.2,805500,41928.0,2025-11-04,STK,Yes,1
+CCEL,Cryo-Cell Intl Inc,David I Portnoy,Chair & Co-CEO,Buy,5000,4.4,22000,1689513.0,2025-11-04,STK,No,1
+OBK,Origin Bancorp Inc,Cecil W Jones,N/A,Buy,8500,34.71,295034,12709.0,2025-11-04,STK,Yes,1
+MHK,Mohawk Industries,Suzanne L Helen,N/A,Sell,1165,111.1425,129481,225774.0,2025-11-04,STK,Yes,1
+FRME,First Merchants Corp,Stephan Fluhler,CIO,Sell,5689,35.55,202244,31352.0,2025-11-04,STK,No,1
+ATGE,Adtalem Global Education Inc,Michael W Malafronte,Lead Indpdt. Dir,Buy,1000,91.85,91850,100445.0,2025-11-04,STK,Yes,1
+PATH,Uipath Inc Cl A,Daniel Dines,Chair & CEO,Sell,45000,15.0243,676093,29333585.0,2025-11-04,STK,Yes,1
+SAM,Boston Beer Company,Michael Spillane,Advisor,Sell,3120,205.7808,642036,10877.0,2025-11-04,STK,Yes,1
+HUBS,Hubspot Inc,Clara Shih,N/A,Award,310,0.0,153320,310.0,2025-11-03,STK,Yes,1
+EDSA,Edesa Biotech Inc,Pardeep Nijhawan,CEO,Award,6968,0.0,12124,942040.0,2025-11-03,STK,No,1
+SAIA,Saia Inc,Tarak Patel,CIO,Award,1405,0.0,399835,1405.0,2025-11-03,STK,Yes,1
+VSTM,Verastem Inc,Daniel Paterson,CEO,Sell,2000,10.0,20000,438818.0,2025-11-03,STK,Yes,1
+NFLX,Netflix Inc,Theodore A Sarandos,Co CEO,Award,4037,0.0,4441063,17195.0,2025-11-03,STK,Yes,1
+NFLX,Netflix Inc,David A Hyman,CLO & Co Sec,Award,847,0.0,931777,32035.0,2025-11-03,STK,Yes,1
+NFLX,Netflix Inc,Spencer Adam Neumann,CFO,Award,1367,0.0,1503823,3681.0,2025-11-03,STK,Yes,1
+AEVA,Aeva Technologies Inc,Soroush Salehian Dardashti,CEO,Award,235295,0.0,3628249,4267965.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Robert J Gaudette,Div. EVP,Award,66,0.0,11515,64792.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Brad Bentley,Div. Pres,Award,69,0.0,12039,27755.0,2025-11-03,STK,Yes,1
+AEVA,Aeva Technologies Inc,Mina Rezk,Chair & CTO,Award,156862,0.0,2418812,4938805.0,2025-11-03,STK,Yes,1
+NFLX,Netflix Inc,Gregory K Peters,Co CEO,Award,4037,0.0,4441063,14808.0,2025-11-03,STK,Yes,1
+NFLX,Netflix Inc,Cletus R Willems,Div. Off.,Award,463,0.0,509342,238.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Alexandra Pruner,N/A,Award,77,0.0,13435,30993.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Heather Cox,N/A,Award,64,0.0,11167,42029.0,2025-11-03,STK,Yes,1
+INVA,Innoviva Inc,Pavel Raifeld,CEO,Award,110436,0.0,1999996,162276.0,2025-11-03,STK,Yes,1
+INVA,Innoviva Inc,Stephen Basso,CFO,Award,27609,0.0,499999,50890.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Edward Spencer Abraham,N/A,Award,196,0.0,34198,84664.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Elisabeth B Donohue,N/A,Award,59,0.0,10294,27403.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Matthew Carter,N/A,Award,105,0.0,18320,41783.0,2025-11-03,STK,Yes,1
+LTRX,Lantronix Inc,Narbeh Derhacobian,N/A,Award,9800,0.0,48216,34599.0,2025-11-03,STK,Yes,1
+LTRX,Lantronix Inc,Kevin S Palatnik,N/A,Award,9800,0.0,48216,39599.0,2025-11-03,STK,Yes,1
+LTRX,Lantronix Inc,Hoshi Printer,Chair,Award,9800,0.0,48216,221024.0,2025-11-03,STK,Yes,1
+CRWV,Coreweave Inc Cl A,American Shareholder,N/A,Sell,7688,134.9353,1037383,68191394.0,2025-11-03,STK,Yes,1
+SYRE,Spyre Therapeutics Inc,Cameron Turtle,CEO,Sell,45000,23.3284,1049778,701907.0,2025-11-03,STK,Yes,1
+EXFY,Expensify Inc Cl A,David Michael Barrett,CEO,Sell,30000,1.6,48000,1616879.0,2025-11-03,STK,Yes,1
+EXFY,Expensify Inc Cl A,Daniel Vidal,Chf Strategy Ofc,Sell,9000,1.6,14400,317857.0,2025-11-03,STK,Yes,1
+KPLT,Katapult Hldgs Inc,Philip K Bartow iii,N/A,Award,7456,0.0,87534,7456.0,2025-11-03,STK,No,1
+KPLT,Katapult Hldgs Inc,Jeffrey Rubin,N/A,Award,7456,0.0,87534,7456.0,2025-11-03,STK,No,1
+PI,Impinj Inc,Daniel Patrick Gibson,N/A,Sell,1513,202.01,305641,1847643.0,2025-11-03,STK,Yes,1
+GTX,Garrett Motion Inc,American Shareholder,N/A,Sell,2500000,16.26,40649999,23394816.0,2025-11-03,STK,Yes,1
+TKO,Tko Group Holdings Inc Cl A,Nick Khan,N/A,Sell,9519,188.2618,1792064,118504.0,2025-11-03,STK,Yes,1
+POWI,Power Integratn,Robert Eric Verity,Inter. CFO & PAO,Award,2402,0.0,99971,8277.0,2025-11-03,STK,Yes,1
+PLTR,Palantir Technologies Inc Cl A,Alexander D Moore,N/A,Sell,20000,204.5443,4090886,1232978.0,2025-11-03,STK,Yes,1
+BTM,Bitcoin Depot Inc,Christopher Scott Buchanan,COO,Sell,7000,2.7,18900,126276.0,2025-11-03,STK,Yes,1
+DINO,HF Sinclair Corp,Ross B Matthews,N/A,Sell,960061,52.08,49999977,13160721.0,2025-11-03,STK,Yes,1
+CRWV,Coreweave Inc Cl A,Brian M Venturo,CSO,Sell,29916,127.937,3827363,702194.0,2025-11-03,STK,Yes,1
+FDS,Factset Research Systems Inc,John Costigan,Ch. Data,Award,3915,0.0,1035792,4479.0,2025-11-03,STK,Yes,1
+FDS,Factset Research Systems Inc,Goran Skoko,Chf Revenue Of,Award,3915,0.0,1035792,8692.0,2025-11-03,STK,Yes,1
+CDNS,Cadence Design Sys,Paul Cunningham,GM,Sell,1000,340.26,340260,98067.0,2025-11-03,STK,Yes,1
+NVDA,Nvidia Corp,Colette Kress,CFO,Sell,47640,208.3306,9924870,5179468.0,2025-11-03,STK,Yes,1
+ANET,Arista Networks Inc,Charles Giancarlo,N/A,Sell,8000,157.1196,1256957,254391.0,2025-11-03,STK,Yes,1
+RUN,Sunrun Inc,Lynn Michelle Jurich,Co-Chair,Sell,50000,20.4055,1020276,2400482.0,2025-11-03,STK,Yes,1
+KTOS,Kratos Defense & Security Inc,Deanna H Lund,CFO,Sell,5000,90.2649,451324,303114.0,2025-11-03,STK,Yes,1
+META,Meta Platforms Inc,Javier Olivan,COO,Sell,517,656.0,339152,118177.0,2025-11-03,STK,Yes,1
+WSM,Williams-Sonoma,William (Bill) J Ready,N/A,Award,149,0.0,28701,17764.0,2025-11-03,STK,Yes,1
+WSM,Williams-Sonoma,Arianna Huffington,N/A,Award,135,0.0,26004,1634.0,2025-11-03,STK,Yes,1
+ARQT,Arcutis Biotherapeutics Inc,Howard G Welgus,N/A,Sell,10000,25.2669,252669,89744.0,2025-11-03,STK,Yes,1
+ATEC,Alphatec Holdings,Patrick Miles,Chair & CEO,Sell,100000,18.96,1896000,5624978.0,2025-11-03,STK,Yes,1
+HOOD,Robinhood Markets Inc Cl A,Daniel Martin Gallagher jr,CLO,Sell,25000,145.9487,3648717,540949.0,2025-11-03,STK,Yes,1
+ATEC,Alphatec Holdings,Jeffrey P. Rydin,N/A,Sell,200000,19.32,3864000,385441.0,2025-11-03,STK,Yes,1
+PWR,Quanta Services,Bernard Fried,N/A,Sell,4000,452.19,1808760,17276.0,2025-11-03,STK,Yes,1
+WDC,Western Digital Corp,Tiang Yew (Irving) Tan,CEO,Sell,20000,150.6892,3013784,645467.0,2025-11-03,STK,Yes,1
+ASAN,Asana Inc Cl A,Sydney L Carey,N/A,Award,996,0.0,13974,123921.0,2025-11-03,STK,Yes,1
+ASAN,Asana Inc Cl A,Lorrie Marie Norrington,N/A,Award,1045,0.0,14662,143086.0,2025-11-03,STK,Yes,1
+GDDY,Godaddy Inc,Jared Sine,Chf Strategy Ofc,Sell,475,133.11,63227,63661.0,2025-11-03,STK,Yes,1
+GDDY,Godaddy Inc,Brian H Sharples,Chair,Sell,500,133.11,66555,19957.0,2025-11-03,STK,Yes,1
+ASAN,Asana Inc Cl A,Krista Anderson-Copperman,N/A,Award,925,0.0,12978,64520.0,2025-11-03,STK,Yes,1
+COIN,Coinbase Global Inc Cl A,Brian Armstrong,Chair & CEO,Sell,25000,337.4862,8437155,526.0,2025-11-03,STK,Yes,1
+LIF,Life360 Inc,John Philip Coghlan,Chair,Sell,3125,98.9289,309153,74073.0,2025-11-03,STK,Yes,1
+RSI,Rush Street Interactive Inc,Mattias Stetz,COO,Sell,30000,17.0897,512691,400254.0,2025-11-03,STK,Yes,1
+SYF,Synchrony Financial,Darrell Owens,EVP,Sell,2989,74.02,221246,16096.0,2025-11-03,STK,Yes,1
+OMF,Onemain Holdings Inc,Douglas H Shulman,Chair & CEO,Sell,35000,59.54,2083901,231600.0,2025-11-03,STK,Yes,1
+MDRX,Veradigm Inc,Tehsin M Syed,CTO & CPO,Award,423998,0.0,2035190,423998.0,2025-11-03,STK:OTC,No,1
+MDRX,Veradigm Inc,Tally Baker,CHRO,Award,105999,0.0,508795,105999.0,2025-11-03,STK:OTC,No,1
+NRG,NRG Energy,Dr Lawrence Stephen Coben,Chair & CEO,Award,793,0.0,138363,426767.0,2025-11-03,STK,Yes,1
+NRG,NRG Energy,Bruce Chung,CFO,Award,74,0.0,12912,68615.0,2025-11-03,STK,Yes,1
+DGII,Digi Intl Inc,Terrence G Schneider,SVP Supply Chain,Award,5332,0.0,192752,28323.0,2025-11-03,STK,Yes,1
+SYF,Synchrony Financial,Arthur W Coviello jr,N/A,Sell,8000,73.93,591440,35769.0,2025-11-03,STK,Yes,1
+DGII,Digi Intl Inc,James J Loch,CFO,Award,13387,0.0,483941,124647.0,2025-11-03,STK,Yes,1
+DGII,Digi Intl Inc,David H Sampsell,Gen Cou & Sec,Award,6939,0.0,250845,90192.0,2025-11-03,STK,Yes,1
+DGII,Digi Intl Inc,James E Freeland,CIO,Award,4006,0.0,144817,16812.0,2025-11-03,STK,Yes,1
+DGII,Digi Intl Inc,Ronald Konezny,CEO,Award,28140,0.0,1017261,594146.0,2025-11-03,STK,Yes,1
+LGND,Ligand Pharm,Dr John W Kozarich,Chair,Sell,467,191.0471,89219,44588.0,2025-11-03,STK,Yes,1
+FSLY,Fastly Inc,Artur Bergman,CTO,Sell,20000,8.21,164200,7791525.0,2025-11-03,STK,Yes,1
+GNRC,Generac Holdings Inc,William B J Jenkins Jr,N/A,Award,134,0.0,21942,10627.0,2025-11-03,STK,Yes,1
+GNRC,Generac Holdings Inc,Aaron Jagdfeld,Chair & CEO,Sell,5000,166.43,832150,542966.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Michael J Baughman,CFO,Award,49585,0.0,6943388,134806.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Ram R Krishnan,COO,Award,74890,0.0,10486847,239850.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Surendralal Lanca Karsanbhai,CEO,Award,218063,0.0,30535362,496974.0,2025-11-03,STK,Yes,1
+FDP,Fresh Del Monte Produce,Michael J Berthelot,N/A,Sell,6000,35.8521,215112,7499.0,2025-11-03,STK,Yes,1
+NEM,Newmont Mining Corp,Thomas Roland Palmer,CEO,Sell,5000,81.34,406700,279923.0,2025-11-03,STK,Yes,1
+NEM,Newmont Mining Corp,Bruce R Brook,Lead Dir.,Sell,2080,80.96,168397,34789.0,2025-11-03,STK,Yes,1
+CRDO,Credo Technology Group Holding Ltd,Dr Pantas Sutardja,N/A,Sell,335,189.35,63432,5893909.0,2025-11-03,STK,Yes,1
+GNRC,Generac Holdings Inc,Dominick Zarcone,N/A,Award,134,0.0,21942,18678.0,2025-11-03,STK,Yes,1
+GNRC,Generac Holdings Inc,Bennett J Morgan,Lead Dir.,Award,178,0.0,29148,31468.0,2025-11-03,STK,Yes,1
+GNRC,Generac Holdings Inc,Andrew G Lampereur,N/A,Award,171,0.0,28001,27832.0,2025-11-03,STK,Yes,1
+ARLO,Arlo Technologies Inc,Matthew Blake Mcrae,CEO,Award,33175,0.0,629329,1780766.0,2025-11-03,STK,Yes,1
+NET,Cloudflare Inc Cl A,Douglas James Kramer,CLO,Sell,3000,255.5331,766600,129185.0,2025-11-03,STK,Yes,1
+RBLX,Roblox Corp Cl A,Matthew D Kaufman,Chf Off.,Sell,6000,112.99,677941,266642.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Peter Zornio,CTO,Award,12559,0.0,1758636,67514.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Lisa Flavin,CCO,Award,24880,0.0,3483946,105615.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Michael H Train,Chf Sustainabili,Award,33495,0.0,4690305,267564.0,2025-11-03,STK,Yes,1
+WLFC,Willis Lease Fin C,Austin Chandler Willis,CEO,Sell,6100,126.5195,771768,860878.0,2025-11-03,STK,No,1
+EMR,Emerson Electric Company,Michael Tang,CLO,Award,7149,0.0,1001075,37196.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Nicholas J Piazza,SVP & CPO,Award,12003,0.0,1680780,40129.0,2025-11-03,STK,Yes,1
+EMR,Emerson Electric Company,Vidya Ramnath,CMO,Award,13621,0.0,1907349,36872.0,2025-11-03,STK,Yes,1
+MDB,Mongodb Inc Cl A,Charles M Hazard,N/A,Sell,999,383.72,383336,59861.0,2025-11-03,STK,Yes,1
+DASH,Doordash Inc Cl A,Stanley Tang,N/A,Sell,45410,244.3887,11097690,24807.0,2025-11-03,STK,Yes,1
+STX,Seagate Technology Hldgs Plc,William Dave Mosley,CEO,Sell,20000,262.8231,5256462,465668.0,2025-11-03,STK,Yes,1
+SNEX,Stonex Group Inc,John Moore Fowler,N/A,Sell,1125,91.2,102601,117769.0,2025-11-03,STK,Yes,1
+PLXS,Plexus Corp,Todd P Kelsey,CEO,Sell,1500,139.12,208680,62714.0,2025-11-03,STK,Yes,1
+HUBB,Hubbell Inc B,Alyssa R Flynn,CHRO,Sell,1445,470.32,679612,3243.0,2025-11-03,STK,Yes,1
+MTZ,Mastec Inc,T. Michael Love,CAO,Sell,1929,206.15,397664,13726.0,2025-11-03,STK,Yes,1
+PSA-Q,Public Storage,Christopher T English,N/A,Buy,9766,10.24,100000,20993.0,2025-11-03,UIT,No,11
+ENSG,The Ensign Group IN,Barry M Smith,N/A,Sell,100,180.64,18063,25052.0,2025-11-03,STK,Yes,1
+HWKN,Hawkins Inc,Drew M Grahek,Ops,Buy,1587,126.3425,200506,40545.0,2025-11-03,STK,Yes,1
+AMPH,Amphastar Pharma,Prof Floyd F Petersen,N/A,Sell,500,25.2662,12633,75531.0,2025-11-03,STK,Yes,1
+STOK,Stoke Therapeutics Inc,Barry Ticho,Chf Med Off.,Sell,5931,25.7234,152565,7195.0,2025-11-03,STK,Yes,1
+DASH,Doordash Inc Cl A,Andy Fang,N/A,Sell,30000,244.3896,7331688,21282.0,2025-11-03,STK,Yes,1
+OKE,Oneok Inc,Brian L Derksen,N/A,Buy,2500,66.0,165000,21200.0,2025-11-03,STK,Yes,1
+FHN,First Horizon Corp,Sital K Mody,N/A,Award,3360,0.0,72105,3360.0,2025-11-03,STK,Yes,1
+EVCM,Evercommerce Inc,Matthew David Feierstein,Pres.,Sell,25000,11.3796,284489,2298295.0,2025-11-03,STK,Yes,1
+IRM,Iron Mountain Inc,Mark Kidd,Div. GM,Sell,6000,102.51,615060,67081.0,2025-11-03,STK,Yes,1
+DAY,Dayforce Inc,American Shareholder,N/A,Sell,25005,68.6901,1717596,24718266.0,2025-11-03,STK,Yes,1
+LGMKD,Logicmark Inc,Mark Archer,CFO,Award,25000,0.0,31250,25061.0,2025-11-03,STK:OTC,No,1
+EME,Emcor Group,Robin A Walker-Lee,N/A,Sell,1325,677.22,897317,6140.0,2025-11-03,STK,Yes,1
+IPWR,Ideal Power Inc,David M Somo,CEO,Award,247438,0.0,1282966,247438.0,2025-11-03,STK,No,1
+DV,Doubleverify Holdings Inc,Andrew E Grimmig,CLO,Sell,1000,11.3,11300,94301.0,2025-11-03,STK,Yes,1
+TEM,Tempus AI Cl A,Ryan Fukushima,COO,Sell,5000,89.032,445160,1096073.0,2025-11-03,STK,Yes,1
+INCY,Incyte Corp,Lee Heeson,EVP,Sell,3074,94.02,289018,29241.0,2025-11-03,STK,Yes,1
+BJ,Bj's Wholesale Club Holdings Inc,Robert W Eddy,Chair & CEO,Sell,17898,89.7081,1605595,298735.0,2025-11-03,STK,Yes,1
+CIEN,Ciena Corp,Gary B Smith,CEO,Sell,6800,190.451,1295067,268470.0,2025-11-03,STK,Yes,1
+TEM,Tempus AI Cl A,David R Epstein,N/A,Sell,370,90.0,33300,26671.0,2025-11-03,STK,Yes,1
+BURL,Burlington Stores Inc,Jennifer Vecchio,Chf Mdse Off.,Sell,419,274.4844,115009,64123.0,2025-11-03,STK,Yes,1
+AAL,American Airlines Gp,Nathaniel Pieper,Chf Com Off.,Award,22488,0.0,299990,22488.0,2025-11-03,STK,Yes,1
+LGMKD,Logicmark Inc,Chia-Lin Simmons,CEO,Award,74800,0.0,93500,74967.0,2025-11-03,STK:OTC,No,1
+OPFI,Oppfi Inc,Christopher J Mckay,CRO,Sell,1107,9.85,10904,170446.0,2025-11-03,STK,Yes,1
+OPFI,Oppfi Inc,Pamela D Johnson,CFO,Sell,1129,10.0,11291,152923.0,2025-11-03,STK,Yes,1
+ALL,Allstate Corp,Thomas J Wilson,Chair & CEO,Sell,16807,189.4043,3183318,964148.0,2025-11-03,STK,Yes,1
+HSY,Hershey Foods Corp,Cordel Robbin-Coker,N/A,Sell,303,168.22,50970,1285.0,2025-11-03,STK,Yes,1
+ILMN,Illumina Inc,Dr Scott Gottlieb,Chair,Buy,500,122.13,61064,12523.0,2025-11-03,STK,Yes,1
+BFLY,Butterfly Network Inc,Jonathan M Rothberg,N/A,Sell,100502,3.078,309345,9708991.0,2025-11-03,STK,Yes,1
+MTDR,Matador Resources Company,Susan M Ward,N/A,Buy,5000,39.04,195200,14923.0,2025-11-03,STK,Yes,1
+GRND,Grindr Inc,Zachary Katz,Gen Cou,Sell,15601,13.73,214201,532738.0,2025-11-03,STK,Yes,1
+FOA,Finance of America Companies Inc Cl A,Kristen Sieffert,Pres.,Sell,750,21.86,16395,81799.0,2025-11-03,STK,Yes,1
+NDAQ,Nasdaq Inc,Jeremy Skule,EVP - Strategy,Sell,2105,85.4,179767,84974.0,2025-11-03,STK,Yes,1
+MVBF,Mvb Financial Corp,Michael R. Sumbs,CFO,Buy,2000,26.0,52000,2000.0,2025-11-03,STK,No,1
+ABM,ABM Industries Inc,Barry A Hytinen,N/A,Award,925,0.0,39969,925.0,2025-11-03,STK,Yes,1
+EBMT,Eagle Bancorp [Mt],Miranda Spaulding,CFO,Award,2430,0.0,39803,12033.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Cindy Utterback,N/A,Award,2207,0.0,36151,10997.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Kenneth M Walsh,N/A,Award,1227,0.0,20099,107260.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Samuel Waters,N/A,Award,1227,0.0,20099,33634.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Peter Joseph Johnson,N/A,Award,1227,0.0,20099,53065.0,2025-11-03,STK,No,1
+MSM,Msc Industrial Direct Company,Erik Gershwind,CEO,Award,4901,0.0,415517,2124622.0,2025-11-03,STK,Yes,1
+EBMT,Eagle Bancorp [Mt],Patrick D Rensmon,COO,Award,685,0.0,11221,14560.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Thomas J Mccarvel,V.Chair,Award,1227,0.0,20099,39644.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Maureen J Rude,N/A,Award,1227,0.0,20099,11250.0,2025-11-03,STK,No,1
+HURN,Huron Consulting,James H Roth,V.Chair,Sell,2000,164.1318,328263,41159.0,2025-11-03,STK,Yes,1
+HURN,Huron Consulting,Hugh E Sawyer iii,N/A,Sell,400,164.24,65697,22326.0,2025-11-03,STK,Yes,1
+HURN,Huron Consulting,John Mccartney,Chair,Sell,500,164.24,82120,49817.0,2025-11-03,STK,Yes,1
+EBMT,Eagle Bancorp [Mt],Laura F Clark,CEO,Award,4332,0.0,70959,28431.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Dale Field,Chf Credit,Award,695,0.0,11384,21786.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Rick F Hays,Chair,Award,1227,0.0,20099,40794.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Corey Jensen,N/A,Award,1227,0.0,20099,7815.0,2025-11-03,STK,No,1
+BANR,Banner Corp,Millicent C Tracey,N/A,Award,782,0.0,47632,782.0,2025-11-03,STK,Yes,1
+EBMT,Eagle Bancorp [Mt],Alana M Binde,CHRO,Award,2227,0.0,36478,9378.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Linda M Chilton,Div. Sr.VP,Award,2627,0.0,43030,13145.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Shavon Cape,N/A,Award,1227,0.0,20099,13570.0,2025-11-03,STK,No,1
+EBMT,Eagle Bancorp [Mt],Tanya Chemodurow,N/A,Award,1227,0.0,20099,11280.0,2025-11-03,STK,No,1
+BANR,Banner Corp,Daniel Everett Oxford,Div. EVP,Award,1846,0.0,112440,6316.0,2025-11-03,STK,Yes,1
+HMN,Horace Mann Educators Corp,Marita Zuraitis,CEO,Sell,5000,44.173,220865,288788.0,2025-11-03,STK,Yes,1
+NVR,NVR Inc,Michael J Devito,N/A,Buy,14,7068.05,98953,14.0,2025-11-03,STK,No,1
+EL,Estee Lauder Companies,Jane Hertzmark Hudis,Div. Pres.,Award,10984,0.0,1024258,27385.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,Michael Bowes,"EVP, People Off",Award,1674,0.0,156076,1752.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,William P Lauder,Chair,Award,7238,0.0,674944,13300.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,Meridith Webster,EVP,Award,3497,0.0,326095,5430.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,Rashida La Lande,Gen Cou,Award,3589,0.0,334675,1604.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,Akhil Shrivastava,CFO,Award,3683,0.0,343418,4769.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,Stephane De La Faverie,CEO,Award,9066,0.0,845404,15176.0,2025-11-03,STK,Yes,1
+EL,Estee Lauder Companies,Roberto Canevari,Chf SupplyChain,Award,6876,0.0,641187,10403.0,2025-11-03,STK,Yes,1
+MTSR,Metsera Inc,American Shareholder,N/A,Sell,193,61.2281,11817,3094182.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,Weybright Ronda Shrewsbury,N/A,Award,226,0.0,13531,12678.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,Todd F Schurz,N/A,Award,235,0.0,14069,14084.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,Tracy D Graham,N/A,Award,235,0.0,14069,12721.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,Isaac P Torres,N/A,Award,235,0.0,14069,10766.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,Timothy K Ozark,N/A,Award,319,0.0,19098,50148.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,John F Afleck-Graves,N/A,Award,319,0.0,19098,19924.0,2025-11-03,STK,Yes,1
+SRCE,1st Source Corp,Mark D Schwabero,N/A,Award,184,0.0,11016,28663.0,2025-11-03,STK,Yes,1
+TER,Teradyne Inc,Michelle L Turner,CFO,Award,11144,0.0,2040132,11260.0,2025-11-03,STK,Yes,1
+BBT,Beacon Financial Corporation,Carl M Carlson,CF & SO,Buy,2000,24.69,49381,75690.0,2025-11-03,STK,Yes,1
+NEOG,Neogen Corp,Bryan Riggsbee,CFO,Award,178855,0.0,1124998,178855.0,2025-11-03,STK,Yes,1
+UMBF,UMB Financial Corp,Tamara Peterman,N/A,Buy,185,106.41,19689,9128.0,2025-11-03,STK,Yes,1
+UMBF,UMB Financial Corp,Gregory M Graves,Lead Dir.,Buy,264,106.41,28126,38411.0,2025-11-03,STK,Yes,1
+CMPR,Cimpress N.V. Ord,Maarten Wensveen,EVP/CTO,Sell,22830,68.3577,1560606,20587.0,2025-11-03,STK,Yes,1
+MTDR,Matador Resources Company,Christopher P Calvert,COO,Buy,2500,39.44,98599,125576.0,2025-11-03,STK,Yes,1
+MTDR,Matador Resources Company,Van H Singleton ii,Div. Pres.,Buy,1000,39.46,39460,294923.0,2025-11-03,STK,Yes,1
+MNDY,Monday.com Ltd,Eran Zinman,Co CEO,Sell,2500,205.24,513100,2021378.1586314153,2025-11-03,STK,Yes,1
+TFII,Tfi International Inc,Debra J Kelly-Ennis,N/A,Buy,1685,88.9347,149855,9707.0,2025-11-03,STK,Yes,1
+NTRA,Natera Inc,Jonathan Sheena,N/A,Sell,4000,200.0684,800273,287794.0,2025-11-03,STK,Yes,1
+NTRA,Natera Inc,Solomon Moshkevich,Div. Pres.,Sell,3000,198.6033,595810,112061.0,2025-11-03,STK,Yes,1
+NPWR,Net Power Inc.,American Shareholder,N/A,Sell,26593,4.0367,107349,3838653.0,2025-11-03,STK,Yes,1
+AMZN,Amazon.com Inc,Douglas J Herrington,Div. CEO,Sell,24500,250.582,6139259,497605.0,2025-11-03,STK,Yes,1
+EXPI,eXp World Holdings Inc,Randall D Miles,V.Chair,Sell,10000,10.0216,100215,497190.0,2025-11-03,STK,Yes,1
+CRWD,Crowdstrike Holdings Inc,Sameer K Gandhi,N/A,Sell,5000,550.2021,2751011,4690158.0,2025-11-03,STK,Yes,1
+TRAK,Repositrak Inc,Randall K. Fields,Chair & CEO,Sell,7500,15.0126,112595,4683525.0,2025-11-03,STK,Yes,1
+U,Unity Software Inc,Tomer Bar-Zeev,N/A,Sell,250000,37.9773,9494325,2058007.0,2025-11-03,STK,Yes,1
+BKV,Bkv Corp,Lindsay B Larrick,CLO,Sell,10000,23.37,233701,166341.0,2025-11-03,STK,Yes,1
+FIVN,Five9 Inc,Andy Dignan,Pres.,Sell,700,24.35,17044,216025.0,2025-11-03,STK,Yes,1
+FFIV,F5 Inc,Thomas Dean Fountain,COO,Sell,4212,249.7792,1052070,22493.0,2025-11-03,STK,Yes,1
+DENN,Dennys Corp,American Shareholder,N/A,Buy,250704,4.0844,1023976,4524905.0,2025-11-03,STK,Yes,1
+TTMI,TTM Technologies,Robert P Farrell,Pres.,Sell,3476,68.9301,239602,20346.0,2025-11-03,STK,Yes,1
+MSFT,Microsoft Corp,Bradford L Smith,V Chair & Pres,Sell,38500,518.6417,19967705,461597.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Carlos Ruiz Sacrist?n,N/A,Award,400,0.0,55316,27147.0,2025-11-03,STK,Yes,1
+CVNA,Carvana Company Cl A,Stephen R Palmer,Finance & Acctng,Sell,1000,305.0,305000,41868.0,2025-11-03,STK,Yes,1
+SITM,Sitime Corp,Rajesh Vashist,Chair & CEO,Sell,2000,289.75,579500,477607.0,2025-11-03,STK,Yes,1
+PSX,Phillips 66,Gregory J Hayes,N/A,Award,94,0.0,12964,29807.0,2025-11-03,STK,Yes,1
+MSBI,Midland Sts BNC,Donald J Spring,CAO,Award,4000,0.0,63760,9386.0,2025-11-03,STK,Yes,1
+LRCX,Lam Research Corp,Bethany Mayer,N/A,Sell,1298,159.99,207666,30582.0,2025-11-03,STK,Yes,1
+NGVC,Natural Grocers By Vitamin Cottage Inc,Charity Isely,N/A,Award,2000,0.0,65920,13697.0,2025-11-03,STK,Yes,1
+NGVC,Natural Grocers By Vitamin Cottage Inc,Robert Linnane,N/A,Award,2000,0.0,65920,3818.0,2025-11-03,STK,Yes,1
+NGVC,Natural Grocers By Vitamin Cottage Inc,Raquel M Isely,N/A,Award,4000,0.0,131840,114969.0,2025-11-03,STK,Yes,1
+WMT,Walmart Inc,John David Rainey,CFO,Sell,2200,101.1826,222602,619518.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Rionda Jose Pedro Valenzuela,N/A,Award,400,0.0,55316,4025.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Gomez Del Campo Javier Arrigunaga,N/A,Award,400,0.0,55316,4025.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,German Larrea Mota Velasco,Chair,Award,400,0.0,55316,388977.0,2025-11-03,STK,Yes,1
+RBRK,Rubrik Inc Cl A,John Wendell Thompson,Lead Dir.,Sell,9009,75.4491,679721,3700.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,D Christian Koch,N/A,Award,1235,0.0,91649,13983.0,2025-11-03,STK,Yes,1
+SNOW,Snowflake Inc Cl A,Christian Kleinerman,Div. EVP,Sell,15000,276.82,4152300,766104.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,Jill M Pemberton,N/A,Award,1235,0.0,91649,7111.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,Eric P Hansotia,N/A,Award,1235,0.0,91649,4218.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,Jeffrey L Harmening,N/A,Award,1235,0.0,91649,9348.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,James Calvin O'rourke,N/A,Award,1235,0.0,91649,18956.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,Joyce Mullen,N/A,Award,1235,0.0,91649,6931.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,Dianna C Craig,N/A,Award,1235,0.0,91649,3765.0,2025-11-03,STK,Yes,1
+TTC,Toro Company,Gary Lee Ellis,N/A,Award,1235,0.0,91649,39455.0,2025-11-03,STK,Yes,1
+HTGC,Hercules Technology Growth Capital,Gayle A Crowell,N/A,Buy,6000,17.7745,106646,78727.0,2025-11-03,STK,Yes,1
+PYPL,Paypal Holdings,Suzan Kereere,Div. Pres.,Sell,12500,68.8748,860935,30983.0,2025-11-03,STK,Yes,1
+RCL,Royal Caribbean Cruises Ltd,Maritza Gomez Montiel,N/A,Sell,1100,281.76,309936,14234.0,2025-11-03,STK,Yes,1
+CRTO,Criteo S.A. ADR,Ernst Teunissen,N/A,Buy,4403,22.71,99992,12468.0,2025-11-03,STK,Yes,1
+CRTO,Criteo S.A. ADR,Frederik Van Der Kooi,Chair,Buy,2299,22.61,51980,16600.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,Nelson C Chan,Int. Chair,Award,3036,0.0,215616,45719.0,2025-11-03,STK,Yes,1
+UTZ,Utz Brands Inc,American Shareholder,N/A,Buy,85000,10.48,890799,3485000.0,2025-11-03,STK,Yes,1
+EWBC,East West Bancorp,Douglas Paul Krause,V.Chair & CAO,Sell,10000,100.04,1000400,73166.0,2025-11-03,STK,Yes,1
+TEAF,Tortoise Sustainable and Social Impact Term Fund,American Shareholder,N/A,Sell,19221,12.39,238149,1530005.0,2025-11-03,UIT,No,11
+COOK,Traeger Inc,Ralph (Raul) Alvarez,N/A,Award,44836,0.0,40801,1118993.0,2025-11-03,STK,Yes,1
+AVBC,Avidia Bancorp Inc,Robert D Cozzone,CEO,Buy,3310,15.1045,49996,50782.0,2025-11-03,STK,No,1
+RYM,Rythm Inc,Benjamin Kovler,Chair/Int. CEO,Award,14375,0.0,591962,84215.0,2025-11-03,STK,No,1
+ITT,ITT Inc,Cheryl De Mesa Graziano,CAO,Sell,238,183.08,43573,5062.0,2025-11-03,STK,Yes,1
+ETSY,Etsy Inc,Merilee Buckley,PAO,Sell,1993,61.4696,122509,0.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,James L Whims,N/A,Award,3036,0.0,215616,25226.0,2025-11-03,STK,Yes,1
+RYM,Rythm Inc,Brad Asher,CFO,Award,6000,0.0,247081,6000.0,2025-11-03,STK,No,1
+UTZ,Utz Brands Inc,American Shareholder,N/A,Buy,15000,10.48,157200,615000.0,2025-11-03,STK,Yes,1
+COOK,Traeger Inc,Steven Philip Richman,N/A,Award,20380,0.0,18546,413959.0,2025-11-03,STK,Yes,1
+TRU,Transunion,Steven M Chaouki,Reg. CEO,Sell,1000,80.47,80470,63592.0,2025-11-03,STK,Yes,1
+UTZ,Utz Brands Inc,Dylan Lissette,Chair,Buy,31750,10.58,335915,160612.0,2025-11-03,STK,Yes,1
+UTZ,Utz Brands Inc,Howard A Friedman,CEO,Buy,7200,10.581,76183,279279.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Dr Luis Miguel Palomino Bonilla,N/A,Award,400,0.0,55316,2113.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Enrique Castillo Sanchez Mejorada,N/A,Award,400,0.0,55316,4447.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Vicente Ariztegui Andreve,N/A,Award,400,0.0,55316,9499.0,2025-11-03,STK,Yes,1
+SCCO,Southern Copper Corp,Leonardo Contreras Lerdo De Tejada,N/A,Award,400,0.0,55316,9004.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,Keith B Geeslin,N/A,Award,3036,0.0,215616,40977.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,Vivie  (Yy) Lee,N/A,Award,3036,0.0,215616,10958.0,2025-11-03,STK,Yes,1
+MYE,Myers Industries,Yvette Dapremont Bright,N/A,Buy,1000,17.45,17449,28711.0,2025-11-03,STK,Yes,1
+IOT,Samsara Inc Cl A,Dominic Phillips,CFO,Sell,18348,40.3913,741100,1763589.0,2025-11-03,STK,Yes,1
+JBL,Jabil Circuit,Mark T Mondello,Chair,Sell,20000,220.8277,4416554,1228359.0,2025-11-03,STK,Yes,1
+CMS,Cms Energy Corp,Brandon J Hofmeister,SVP.,Sell,4000,72.4706,289883,64491.0,2025-11-03,STK,Yes,1
+SLP,Simulations Plus Inc,Lisa Lavange,N/A,Award,1771,0.0,30001,10834.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,Susan J Hardman,N/A,Award,3036,0.0,215616,14334.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,Jeffrey D Buchanan,N/A,Award,3036,0.0,215616,21657.0,2025-11-03,STK,Yes,1
+ASA,ASA Gold and Precious Metals,American Shareholder,N/A,Buy,26152,46.21,1208484,5145514.0,2025-11-03,UIT,Yes,11
+TEAM,Atlassian Corp,Scott Belsky,N/A,Buy,1476,169.99,250905,6131.0,2025-11-03,STK,Yes,1
+NQP,Nuveen Pennsylvania Investment,American Shareholder,N/A,Sell,28534,12.06,344121,4408563.0,2025-11-03,UIT,No,11
+OPCH,Option Care Health Inc,Harry M Jansen Kraemer,Chair,Buy,38000,25.984,987392,413390.0,2025-11-03,STK,Yes,1
+ECAT,Blackrock ESG Capital Allocation Trust,American Shareholder,N/A,Sell,70661,16.4,1158840,27227642.0,2025-11-03,UIT,No,11
+TEAM,Atlassian Corp,Michael Cannon-Brookes,CEO,Sell,7665,172.7843,1324392,306600.0,2025-11-03,STK,Yes,1
+TEAM,Atlassian Corp,Scott Farquhar,N/A,Sell,7665,172.785,1324397,306600.0,2025-11-03,STK,Yes,1
+MEGI,Nyli CBRE Global Infrastructure Megatrends Term,American Shareholder,N/A,Sell,108100,14.08,1522048,6049597.0,2025-11-03,UIT,No,11
+EQIX,Equinix Inc,Brandi Galvin Morandi,CHRO,Sell,100,840.47,84047,8277.0,2025-11-03,STK,Yes,1
+AEE,Ameren Corp,Michael L Moehn,CFO,Sell,6500,101.44,659360,204156.0,2025-11-03,STK,Yes,1
+SNX,Synnex Corp,Merline Saintil,N/A,Sell,336,155.79,52346,7330.0,2025-11-03,STK,Yes,1
+NLY,Annaly Capital Management Inc,Anthony C Green,Corp & legal ofc,Sell,22499,21.15,475854,178441.0,2025-11-03,STK,Yes,1
+SLP,Simulations Plus Inc,Sharlene Evans,N/A,Award,1771,0.0,30001,13280.0,2025-11-03,STK,Yes,1
+LNN,Lindsay Corp,Samuel S Hinrichsen,SVP.,Award,2674,0.0,299943,2674.0,2025-11-03,STK,Yes,1
+SLP,Simulations Plus Inc,John Paglia,N/A,Award,1771,0.0,30001,10696.0,2025-11-03,STK,Yes,1
+SYNA,Synaptics Inc,Patricia Lorraine Kummrow,N/A,Award,3036,0.0,215616,11838.0,2025-11-03,STK,Yes,1
+SLP,Simulations Plus Inc,Daniel Weiner,Chair,Award,1771,0.0,30001,12654.0,2025-11-03,STK,Yes,1
+SLP,Simulations Plus Inc,Walter S Woltosz,N/A,Award,1771,0.0,30001,3288002.0,2025-11-03,STK,Yes,1
+MTG,Mgic Investment Corp,Salvatore A Miosi,COO,Sell,30000,27.52,825600,544245.0,2025-11-03,STK,Yes,1
+HLX,Helix Energy Solutions Group,Scott Andrew Sparks,COO,Sell,40000,6.879,275160,301042.0,2025-11-03,STK,Yes,1
+NLY,Annaly Capital Management Inc,David L Finkelstein,CEO & CIO,Sell,50000,21.16,1058000,709725.0,2025-11-03,STK,Yes,1
+CARG,Cargurus Inc Cl A,Ismail Elshareef,CPO,Sell,1228,34.98,42955,95907.0,2025-11-03,STK,Yes,1
+CARG,Cargurus Inc Cl A,Samuel Zales,COO,Sell,10000,34.98,349799,410259.0,2025-11-03,STK,Yes,1
+RGP,Resources Connection Inc,Roger D Carlile,CEO,Award,600000,0.0,2808000,666554.0,2025-11-03,STK,Yes,1
+RMD,Resmed Inc,Brett Sandercock,CFO,Sell,1000,247.54,247539,85745.0,2025-11-03,STK,Yes,1
+LLY,Eli Lilly and Company,American Shareholder,N/A,Sell,300000,888.8297,266648910,93931978.0,2025-11-03,STK,Yes,1
+NCSM,Ncs Multistage Holdings Inc,Robert Nipper,N/A,Sell,3147,40.0,125880,123051.0,2025-11-03,STK,No,1
+MRK,Merck & Company,David Michael Williams,CIO,Sell,8614,83.5895,720040,24578.0,2025-11-03,STK,Yes,1
+IRMD,Iradimed Corp,Roger E Susi,Chair & CEO,Sell,5000,82.6432,413216,4547950.0,2025-11-03,STK,Yes,1
+BOOT,Boot Barn Holdings Inc,Peter M Starrett,Chair,Sell,6498,190.0,1234620,32170.0,2025-11-03,STK,Yes,1
+SIRI,Siriusxm Holdings Inc,Kristina Salen,N/A,Sell,1845,21.64,39925,19969.0,2025-11-03,STK,Yes,1
+SNX,Synnex Corp,Richard T Hume,N/A,Sell,5000,153.8148,769074,57515.0,2025-11-03,STK,Yes,1
+PL,Planet Labs Pbc,Scott Reese,N/A,Award,8807,0.0,116165,8807.0,2025-11-03,STK,Yes,1
+FUSB,First US Bancshares Inc,James F House,CEO,Buy,1250,13.29,16612,133729.0,2025-11-03,STK,No,1
+SR,Spire Inc,Steven M Greenley,COO,Award,7970,0.0,699925,7970.0,2025-11-03,STK,Yes,1
+VIAV,Viavi Solutions,Paul Mcnab,CMO,Sell,12617,17.41,219662,28044.0,2025-11-03,STK,Yes,1
+VIAV,Viavi Solutions,Luke M Scrivanich,GM,Sell,9765,17.45,170400,61820.0,2025-11-03,STK,Yes,1
+VIAV,Viavi Solutions,Keith L Barnes,N/A,Sell,53933,17.2726,931564,125151.0,2025-11-03,STK,Yes,1
+VIAV,Viavi Solutions,Kevin Christopher Siebert,Gen Cou & Sec,Sell,11148,17.29,192749,73450.0,2025-11-03,STK,Yes,1
+EQB-PR-C.TO,Equitable Group Inc Pref Ser 3,Mary Lee Schneider,N/A,Buy,2081,30.28,63000,2081.0,2025-11-03,STKINT:CA,No,6
+WM,Waste Management,Sean E Menke,N/A,Buy,2000,196.4201,392840,7314.0,2025-11-03,STK,Yes,1
+WM,Waste Management,David L. Reed,CFO,Award,2628,0.0,517112,7840.0,2025-11-03,STK,Yes,1
+GBFH,Gbank Finl Hldgs,Tara Allyce Campbell,COO,Sell,3867,35.611,137707,3733.0,2025-11-03,STK,No,1
+TEL,Te Connectivity Ltd,John S Jenkins Jr,Gen Cou,Sell,2897,247.7302,717674,20903.0,2025-11-03,STK,Yes,1
+FCNCP,First Citizens Bancshares,Mary Lee Schneider,N/A,Buy,2544,24.76,63000,2544.0,2025-11-03,UIT,No,11
+XOM,Exxon Mobil Corp,Greg C Garland,N/A,Award,8000,0.0,910080,8339.0,2025-11-03,STK,Yes,1
+VIR,Vir Biotechnology Inc,Dr Vicki L Sato,Chair,Sell,22000,5.6385,124047,1210391.0,2025-11-03,STK,Yes,1
+ORI,Old Republic International Corp,Therace Risch,N/A,Buy,1000,39.1358,39135,10625.0,2025-11-03,STK,Yes,1
+NEEXU,Nextera Energy Inc,American Shareholder,N/A,Buy,15170,0.82,12440,4125367.0,2025-11-03,STK:OTC,No,1
+CME,CME Group Inc,Harold Eugene Ford jr,N/A,Sell,1000,263.53,263531,1091.0,2025-11-03,STK,Yes,1
+PEBK,Peoples Bancorp NC,James S Abernethy,V.Chair,Sell,800,29.05,23240,175867.0,2025-11-03,STK,No,1
+EPR,Entertainment Properties Trust,Gregory E Zimmerman,CIO,Sell,7500,49.2127,369095,73877.0,2025-11-03,STK,Yes,1
+MSBI,Midland Sts BNC,Jeremy Andrew Jameson,CCO,Award,23310,0.0,371562,57984.0,2025-11-03,STK,Yes,1
+MSBI,Midland Sts BNC,Eric T Lemke,CFO,Award,14940,0.0,238143,43333.0,2025-11-03,STK,Yes,1
+MSBI,Midland Sts BNC,Jeffrey G Ludwig,V.Chair & CE,Award,38410,0.0,612256,411228.0,2025-11-03,STK,Yes,1
+MSBI,Midland Sts BNC,Daniel Edward Casey,CRO,Award,10760,0.0,171515,24112.0,2025-11-03,STK,Yes,1
+MSBI,Midland Sts BNC,Jeffrey S Mefford,Div. Pres.,Award,23310,0.0,371562,79059.0,2025-11-03,STK,Yes,1
+CZFS,Citizens Fincl Svcs,Randall E Black,CEO,Buy,478,54.1046,25862,44329.0,2025-11-03,STK,No,1
+NEWT,Newtekone Inc,Gregory L Zink,N/A,Buy,1000,10.43,10429,37207.0,2025-11-03,STK,Yes,1
+DRTS,Alpha Tau Medical Ltd Cl A,Amnon Gat,COO,Sell,16000,4.165,66640,2021378.1586314153,2025-11-03,STK,No,1
+CPA,Copa Holdings S.A.,Pedro Heilbron,Chair & CEO,Sell,30000,125.21,3756300,2021378.1586314153,2025-11-03,STK,Yes,1
+RDWR,Radware Ltd,Sharon Trachtman,CMO,Sell,3110,25.63,79710,2021378.1586314153,2025-11-03,STK,Yes,1
+SOPH,Sophia Genetics Sa,Kathy L Hibbs,N/A,Sell,10000,5.0,50000,2021378.1586314153,2025-11-03,STK,Yes,1
+TK,Teekay Corporation Ltd,Rudolph Krediet,N/A,Sell,28563,9.4445,269762,2021378.1586314153,2025-11-03,STK,Yes,1
+NEXM,Nexmetals Mining Corp,Sean Michael Whiteford,Pres.,Buy,5000,3.91,19550,27833.0,2025-11-03,STK,No,1
+SGMLF,Sigma Lithium Corp,Marcelo Freire De Paiva,Co-Chair,Buy,77007,5.1821,399058,2244307.0,2025-11-03,STK:OTC,No,1
+NTRA,Natera Inc,Steve Chapman,CEO,Sell,5024,199.9588,1004593,144816.0,2025-11-03,STK,Yes,1
+NTRA,Natera Inc,Dr Matthew Rabinowitz,Chair,Sell,17100,200.0002,3420003,2308752.0,2025-11-03,STK,Yes,1
+AJG,Arthur J. Gallagher & Company,Michael Robert Pesch,VP.,Buy,4000,247.1221,988489,54832.0,2025-11-03,STK,Yes,1
+GWRE,Guidewire Software Inc,John Mullen,Pres.,Sell,3000,231.85,695550,152958.0,2025-11-03,STK,Yes,1
+GWRE,Guidewire Software Inc,Michael (Mike) George Rosenbaum,CEO,Sell,1400,231.85,324591,255158.0,2025-11-03,STK,Yes,1
+FIBK,First Interstate Ban,Jonathan R Scott,N/A,Sell,4800,31.27,150096,941024.0,2025-11-03,STK,Yes,1
+MSM,Msc Industrial Direct Company,Mitchell Lawrence Jacobson,Chair,Buy,181806,84.752,15408422,8084735.0,2025-11-03,STK,Yes,1
+CLVT,Clarivate Analytics Plc,Kenneth L Cornick,N/A,Buy,725000,3.4234,2481964,1032711.0,2025-11-03,STK,Yes,1
+HOWL,Werewolf Therapeutics Inc,Dr Luke Evnin,Chair,Sell,189356,1.3274,251351,3943359.0,2025-11-03,STK,Yes,1
+HOWL,Werewolf Therapeutics Inc,Ansbert K Gadicke,N/A,Sell,295043,1.3274,391641,6147610.0,2025-11-03,STK,Yes,1
+FIBK,First Interstate Ban,American Shareholder,N/A,Sell,10000,30.99,309900,234460.0,2025-11-03,STK,Yes,1
+FINW,Finwise Bancorp,Robert Keil,CTO,Sell,1500,19.48,29220,56428.0,2025-11-03,STK,No,1
+EBF,Ennis Inc,Boyne Wade Brewer,COO,Buy,2000,17.0499,34100,23684.0,2025-11-03,STK,Yes,1
+SKYQ,Sky Quarry Inc,David O Sealock,N/A,Sell,191533,0.4538,86918,535977.0,2025-11-03,STK,No,1
+MOFG,Midwestone Fnl Gp,Charles N Reeves,CEO,Buy,760,37.9143,28815,94989.0,2025-11-03,STK,Yes,1
+RMI,Rivernorth Opportunistic Municipal Income Fund,American Shareholder,N/A,Buy,2672,14.6538,39155,34648.0,2025-11-03,UIT,No,11
+MYE,Myers Industries,Dr. Helmuth Ludwig,N/A,Buy,5000,17.21,86050,13436.0,2025-11-03,STK,Yes,1
+MYE,Myers Industries,Dr. Helmuth Ludwig,N/A,Award,3436,0.0,59546,13436.0,2025-11-03,STK,Yes,1
+UFPI,Universal Forest Prd,Michael G Wooldridge,N/A,Award,366,0.0,33720,15889.0,2025-11-03,STK,Yes,1
+NET,Cloudflare Inc Cl A,Mark J Hawkins,N/A,Sell,1000,254.15,254150,10990.0,2025-11-03,STK,Yes,1
+NGS,Natural Gas Services Group,Brian L Tucker,N/A,Award,12683,0.0,353094,14033.0,2025-11-03,STK,Yes,1
+NGS,Natural Gas Services Group,Jean K Holley,N/A,Award,3465,0.0,96465,11265.0,2025-11-03,STK,Yes,1
+UWMC,Uwm Hldg Corp,Mat Ishbia,Chair & CEO,Sell,1789068,5.6367,10084439,7108957.0,2025-11-03,STK,Yes,1
+PLD,Prologis Inc,Cristina Gabriela Bita,N/A,Sell,500,123.14,61570,8829.0,2025-11-03,STK,Yes,1
+FHI,Federated Investors,Saker Anwar Nusseibeh,Div. CEO,Sell,15000,48.5436,728155,157039.0,2025-11-03,STK,Yes,1
+PATH,Uipath Inc Cl A,Daniel Dines,Chair & CEO,Sell,45000,16.2264,730188,29378585.0,2025-11-03,STK,Yes,1
+FND,Floor & Decor Holdings Inc,Bradley S Paulsen,Pres.,Buy,5000,60.2691,301345,30000.0,2025-11-03,STK,Yes,1
+SXT,Sensient Technologies Corp,Dr Joseph Carleone,N/A,Buy,1000,91.2575,91257,22414.0,2025-11-03,STK,Yes,1
+CNA,CNA Financial Corp,Dino E Robusto,Chair,Sell,6250,45.28,283000,674338.0,2025-11-03,STK,Yes,1
+VEL,Velocity Financial Inc,Mark R Szczepaniak,CFO,Sell,1572,18.5037,29088,154951.0,2025-11-03,STK,Yes,1
+MTDR,Matador Resources Company,Shelley F Appel,N/A,Buy,4485,39.7211,178149,1744562.0,2025-11-03,STK,Yes,1
+ALKS,Alkermes Plc,Craig C Hopkinson,Chf Med Off.,Sell,4000,30.3824,121530,69740.0,2025-11-03,STK,Yes,1
+LTBR,Lightbridge Corp,Dr Sweta Chakraborty,N/A,Sell,1948,26.73,52070,43501.0,2025-11-03,STK,Yes,1
+YELP,Yelp Inc,Craig Saldanha,CPO,Sell,1200,32.98,39576,201300.0,2025-11-03,STK,Yes,1
+FCPT,Four Corners Property Trust IN,Toni S Steele,N/A,Sell,838,23.9019,20030,25829.0,2025-11-03,STK,Yes,1
+FCF,First Commonwealth Financial Corp,Todd D Brice,N/A,Buy,1000,15.2686,15269,14717.0,2025-11-03,STK,Yes,1
+UFPI,Universal Forest Prd,Mary E Tuuk Kuras,N/A,Award,366,0.0,33720,21671.0,2025-11-03,STK,Yes,1
+UFPI,Universal Forest Prd,Joan A Budden,N/A,Award,366,0.0,33720,1049.0,2025-11-03,STK,Yes,1
+CI,The Cigna Group,David M Cordani,Chair & CEO,Buy,4134,241.8762,999916,621872.0,2025-11-03,STK,Yes,1
+BPRN,Princeton Bancorp Inc,Susan Barrett,N/A,Buy,1600,31.5,50400,4802.0,2025-11-03,STK,No,1
+BBT,Beacon Financial Corporation,William H Hughes iii,N/A,Buy,635,24.26,15405,13540.0,2025-11-03,STK,Yes,1
+NEWT,Newtekone Inc,Barry Sloane,Chair & CEO,Buy,10000,10.217,102170,1212459.0,2025-11-03,STK,Yes,1
+FORA,Forian Inc,Caroline Strickland Mcgrail,Gen Cou,Award,150000,0.0,336000,150000.0,2025-11-02,STK,Yes,1
+VRME,Verifyme Inc,Jack Wang,CIO,Award,13334,0.0,13145,50395.0,2025-11-02,STK,No,1
+VRME,Verifyme Inc,Fred Volk iii,Ops,Award,13334,0.0,13145,64809.0,2025-11-02,STK,No,1
+ALK,Alaska Air Group,Kyle B Levine,CLO & Sec.,Award,4857,0.0,202682,23922.0,2025-11-02,STK,Yes,1
+ALK,Alaska Air Group,Emily Halverson,Contr. & CAO,Award,970,0.0,40478,9065.0,2025-11-02,STK,Yes,1
+CRUS,Cirrus Logic Inc,Ulf Habermann,SVP-Finance,Award,5601,0.0,742973,32343.0,2025-11-02,STK,Yes,1
+DTIL,Precision Biosciences Inc,Michael Amoroso,CEO,Award,9444,0.0,77062,118984.0,2025-11-02,STK,Yes,1
+DTIL,Precision Biosciences Inc,Dario Scimeca,Gen Cou & Co Sec,Award,1835,0.0,14973,28923.0,2025-11-02,STK,Yes,1
+DTIL,Precision Biosciences Inc,Alex Kelly,CFO,Award,3605,0.0,29416,78601.0,2025-11-02,STK,Yes,1
+IAS,Integral Ad Science Holding Corp,Lisa Utzschneider,CEO,Award,23893,0.0,243947,429922.0,2025-11-02,STK,Yes,1
+GDRX,Goodrx Holdings Inc Cl A,Trevor Bezdek,Co-Chair,Award,33530,0.0,112995,5425524.0,2025-11-02,STK,Yes,1
+LTRX,Lantronix Inc,Saleel Awsare,CEO,Award,156752,0.0,772787,373425.0,2025-11-01,STK,Yes,1
+FTNT,Fortinet Inc,Michael Xie,CTO,Award,7035,0.0,608036,56495064.0,2025-11-01,STK,Yes,1
+FTNT,Fortinet Inc,Ken Xie,Chair & CEO,Award,16832,0.0,1454789,60202230.0,2025-11-01,STK,Yes,1
+FTNT,Fortinet Inc,Christiane Ohlgart,CFO,Award,685,0.0,59204,6834.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Francois Locoh Donou,CEO,Award,7174,0.0,1815381,194923.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Chad Michael Whalen,Chf Revenue Of,Award,2602,0.0,658436,35077.0,2025-11-01,STK,Yes,1
+FTNT,Fortinet Inc,John Whittle,COO/Secy,Award,4615,0.0,398874,76280.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Angelique M Okeke,Gen Cou,Award,489,0.0,123741,1791.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Lyra Amber Schramm,Chf People Off,Award,453,0.0,114631,1062.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Cooper Edward Werner,CFO,Award,783,0.0,198138,5705.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Thomas Dean Fountain,COO,Award,3003,0.0,759909,30811.0,2025-11-01,STK,Yes,1
+FFIV,F5 Inc,Kunal Anand,CTO,Award,623,0.0,157650,8595.0,2025-11-01,STK,Yes,1
+TMUS,T-Mobile US,Srinivasan Gopalan,CEO,Award,41464,0.0,8709514,80458.0,2025-11-01,STK,Yes,1
+PANW,Palo Alto Networks Inc,Dipak Golechha,CFO,Award,280820,0.0,61847797,162619.0,2025-11-01,STK,Yes,1
+HOOD,Robinhood Markets Inc Cl A,Steven M Quirk,Chf Off.,Award,43403,0.0,6370693,118629.0,2025-11-01,STK,Yes,1
+QMCO,Quantum Corp,Hugues Meyrath,CEO,Award,37500,0.0,354000,62200.0,2025-11-01,STK,No,1
+CACI,Caci International,Jeffrey D Maclauchlan,CFO,Award,6173,0.0,3470769,7475.0,2025-11-01,STK,Yes,1
+PANW,Palo Alto Networks Inc,William B J Jenkins Jr,Pres.,Award,312025,0.0,68720387,155339.0,2025-11-01,STK,Yes,1
+BMY,Bristol-Myers Squibb Company,Dr Christopher S Boerner,Chair & CEO,Award,2420,0.0,111489,126621.0,2025-11-01,STK,Yes,1
+PANW,Palo Alto Networks Inc,Josh D Paul,CAO,Award,31201,0.0,6871708,48205.0,2025-11-01,STK,Yes,1
+ETSY,Etsy Inc,Bradley Minor,CMO,Award,2088,0.0,129455,10468.0,2025-11-01,STK,Yes,1
+EB,Eventbrite Inc,Julia Hartz,Chair & CEO,Award,13724,0.0,31703,1653577.0,2025-11-01,STK,Yes,1
+PANW,Palo Alto Networks Inc,Lee Klarich,CTO & CPO,Award,468038,0.0,103080690,1075173.0,2025-11-01,STK,Yes,1
+FROG,Jfrog Ltd,Sigal Zarmi,N/A,Award,7305,0.0,346842,7305.0,2025-11-01,STK,Yes,1
+BMY,Bristol-Myers Squibb Company,Karin Shanahan,Prod Dev.,Award,6281,0.0,289366,18144.0,2025-11-01,STK,Yes,1
+BMY,Bristol-Myers Squibb Company,Gregory Scott Meyers,CDO,Award,6281,0.0,289366,19718.0,2025-11-01,STK,Yes,1
+FELE,Franklin Electric Company,Gregg C Sengstack,N/A,Award,366,0.0,34686,470922.0,2025-11-01,STK,Yes,1
+GTM,Zoominfo Technologies Inc Cl A,Michael Graham O?Brien,CFO,Award,1541,0.0,17290,79516.0,2025-11-01,STK,Yes,1
+LHX,L3Harris Technologies Inc,Jon Rambeau,Div. Pres.,Award,4147,0.0,1198898,5415.0,2025-11-01,STK,Yes,1
+DKNG,Draftkings Inc,Robert Stanton Dodge,CLO & Co Sec,Award,808,0.0,24717,500454.0,2025-11-01,STK,Yes,1
+DKNG,Draftkings Inc,Alan Wayne Ellingson,CFO,Award,4310,0.0,131842,135411.0,2025-11-01,STK,Yes,1
+BLMN,Bloomin' Brands Inc,Lissette R Gonzalez,SVP Supply Chain,Award,4018,0.0,27443,31851.0,2025-11-01,STK,Yes,1
+BLMN,Bloomin' Brands Inc,Mark E Graff,N/A,Award,4861,0.0,33201,58588.0,2025-11-01,STK,Yes,1
+INTU,Intuit Inc,Eve B Burton,N/A,Award,120,0.0,80106,383.0,2025-11-01,STK,Yes,1
+EBAY,Ebay Inc,Zane C Rowe,N/A,Award,333,0.0,27076,9096.0,2025-11-01,STK,Yes,1
+EBAY,Ebay Inc,Perry M Traquina,N/A,Award,379,0.0,30817,84843.0,2025-11-01,STK,Yes,1
+EBAY,Ebay Inc,Logan Green,N/A,Award,293,0.0,23824,49788.0,2025-11-01,STK,Yes,1
+EBAY,Ebay Inc,Mohak Shroff,N/A,Award,277,0.0,22523,24102.0,2025-11-01,STK,Yes,1
+JELD,Jeld-Wen Holding Inc,Rachael B Elliott,Reg. EVP,Award,115207,0.0,499999,115207.0,2025-11-01,STK,Yes,1
+LNN,Lindsay Corp,Gustavo E Oberto,Div. Pres.,Award,499,0.0,55509,6897.0,2025-11-01,STK,Yes,1
+LNN,Lindsay Corp,Randy A Wood,CEO,Award,2958,0.0,329048,42180.0,2025-11-01,STK,Yes,1
+LNN,Lindsay Corp,Brian L Ketcham,CFO,Award,768,0.0,85432,10986.0,2025-11-01,STK,Yes,1
+LNN,Lindsay Corp,James Scott Marion,Div. Pres.,Award,499,0.0,55509,8328.0,2025-11-01,STK,Yes,1
+COR,Cencora Inc,Lauren Tyler,N/A,Award,89,0.0,30066,3069.0,2025-11-01,STK,Yes,1
+COR,Cencora Inc,Werner Baumann,N/A,Award,108,0.0,36484,3130.0,2025-11-01,STK,Yes,1
+VYX,NCR Voyix Corporation,Darren Wilson,EVP,Award,19561,0.0,223191,12492.0,2025-11-01,STK,Yes,1
+LE,Lands' End Inc,Andrew J Mclean,CEO,Award,57817,0.0,910040,122126.0,2025-11-01,STK,Yes,1
+AFRM,Affirm Holdings Inc Cl A,Libor Michalek,Pres.,Award,2335,0.0,167839,1066647.0,2025-11-01,STK,Yes,1
+AFRM,Affirm Holdings Inc Cl A,Michael Linford,COO,Award,2335,0.0,167839,49935.0,2025-11-01,STK,Yes,1
+AFRM,Affirm Holdings Inc Cl A,Katherine Adkins,CLO & Co Sec,Award,1705,0.0,122555,124419.0,2025-11-01,STK,Yes,1
+GTX,Garrett Motion Inc,Mark D Rollinger,VP/GC/Secy,Award,17710,0.0,300008,17710.0,2025-11-01,STK,Yes,1
+ST,Sensata Technologies Holding N.V.,Nicolas Bardot,COO,Award,15709,0.0,500017,15709.0,2025-11-01,STK,Yes,1
+FRD,Friedman Industries Inc,Gaurav Chhibbar,COO,Award,50000,0.0,1062000,50000.0,2025-11-01,STK,No,1
+HUM,Humana Inc,Gordon A Smith,N/A,Award,765,0.0,212815,765.0,2025-11-01,STK,Yes,1
+AMAL,Amalgamated Financial Corp,Julie Kelly,N/A,Award,2311,0.0,62998,19074.0,2025-11-01,STK,Yes,1
+AMAL,Amalgamated Financial Corp,Edgar Romney,N/A,Award,2311,0.0,62998,19074.0,2025-11-01,STK,Yes,1
+AMAL,Amalgamated Financial Corp,Lynne Fox,Chair,Award,2568,0.0,70004,24844.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Kristina W Karnovsky,Div. Head,Award,505,0.0,134734,2535.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Goran Skoko,Chf Revenue Of,Award,612,0.0,163281,4777.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Gregory T Moskoff,PAO,Award,190,0.0,50692,170.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Robert J Robie,Div. Head,Award,505,0.0,134734,2303.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,John Costigan,Ch. Data,Award,367,0.0,97916,564.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Katherine M Stepp,CTO,Award,367,0.0,97916,808.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Helen L Shan,CFO,Award,1009,0.0,269201,9735.0,2025-11-01,STK,Yes,1
+FDS,Factset Research Systems Inc,Chris Ellis,Div. Head,Award,352,0.0,93914,24656.0,2025-11-01,STK,Yes,1
+VSTS,Vestis Corporation,Rodney Wedemeier,CHRO,Award,66667,0.0,350002,66667.0,2025-11-01,STK,Yes,1
+CPB,The Campbell's Company,Todd E Cunfer,CFO,Award,73467,0.0,2213561,73467.0,2025-11-01,STK,Yes,1
+OABI,Omniab Inc,Steven Love,N/A,Award,13333,0.0,20666,71666.0,2025-11-01,STK,Yes,1
+OABI,Omniab Inc,Carolyn R Bertozzi,N/A,Award,17769,0.0,27542,93308.0,2025-11-01,STK,Yes,1
+TWIN,Twin Disc Inc,David W Johnson,N/A,Award,5650,0.0,88479,74630.0,2025-11-01,STK,Yes,1
+TWIN,Twin Disc Inc,Michael Doar,N/A,Award,6465,0.0,101242,128596.0,2025-11-01,STK,Yes,1
+VRRM,Verra Mobility Corp,Lin Bo,Div. Sr.VP,Award,4968,0.0,115307,3511.0,2025-11-01,STK,Yes,1
+HRB,H&R Block,M Wasleski,CAO,Award,3293,0.0,163794,4934.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,G Ruffner Page Jr,N/A,Award,1136,0.0,100706,80885.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,James W Roquemore,N/A,Award,1136,0.0,100706,36963.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,William K. Pou jr,N/A,Award,1136,0.0,100706,23558.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,David G Salyers,N/A,Award,1136,0.0,100706,15255.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,G Stacy Smith,N/A,Award,1136,0.0,100706,40682.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Joshua A Snively,N/A,Award,1136,0.0,100706,12822.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,David R Brooks,N/A,Award,1136,0.0,100706,21743.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Sr Ronald M Cofield,N/A,Award,1136,0.0,100706,5182.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Shantella E Cooper,N/A,Award,1136,0.0,100706,9383.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Martin B Davis,N/A,Award,1136,0.0,100706,9639.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Janet P Froetscher,N/A,Award,1136,0.0,100706,9430.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Douglas J Hertz,Chair,Award,1136,0.0,100706,17460.0,2025-11-01,STK,Yes,1
+SSB,Southstate Bank Corporation,Merriann Metz,N/A,Award,1136,0.0,100706,2078.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Ginger M Jones,N/A,Award,822,0.0,190662,6280.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Christopher L Mapes,N/A,Award,822,0.0,190662,2868.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Dr John A De Ford,N/A,Award,822,0.0,190662,5587.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Michael J Merriman jr,N/A,Award,822,0.0,190662,29515.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Victor L Richey jr,Chair,Award,822,0.0,190662,20968.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Milton Mayo Morris,N/A,Award,822,0.0,190662,3166.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Jennifer A Parmentier,N/A,Award,822,0.0,190662,4304.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Annette Clayton,N/A,Award,822,0.0,190662,2638.0,2025-11-01,STK,Yes,1
+NDSN,Nordson Corp,Frank M Jaehnert,N/A,Award,822,0.0,190662,20311.0,2025-11-01,STK,Yes,1
+CMG,Chipotle Mexican Grill,Matthew Bush,Contr. & PAO,Award,12623,0.0,400023,16933.0,2025-10-31,STK,Yes,1
+OSBC,Old Second Bancorp,Darin Campbell,Pres.,Sell,57565,18.0603,1039642,340839.0,2025-10-31,STK,Yes,1
+PSA-L,Public Storage [Psa/Pl],American Shareholder,N/A,Sell,133967,24.45,3275501,3636524.0,2025-10-31,UIT,No,11
+BBNX,Beta Bionics Inc,Maria Palasis,N/A,Sell,1406,26.9089,37833,9841.0,2025-10-31,STK,No,1
+BBNX,Beta Bionics Inc,Adam Lezack,N/A,Sell,1406,26.8704,37779,9841.0,2025-10-31,STK,No,1
+ATLX,Atlas Lithium Corp,Igor Tkachenko,Co Sec,Award,5922,0.0,31682,254597.0,2025-10-31,STK,Yes,1
+SRTA,Strata Critical Medical Inc,William A Heyburn,Co CEO & CFO,Award,181072,0.0,910793,1486569.0,2025-10-31,STK,Yes,1
+SRTA,Strata Critical Medical Inc,Melissa M Tomkiel,Co CEO,Award,208929,0.0,1050913,1479301.0,2025-10-31,STK,Yes,1
+SRTA,Strata Critical Medical Inc,Amir Cohen,CAO,Award,41786,0.0,210184,141839.0,2025-10-31,STK,Yes,1
+BYND,Beyond Meat Inc,Dr Dariush Ajami,Chf Innovations,Award,552077,0.0,913687,731872.0,2025-10-31,STK,Yes,1
+BYND,Beyond Meat Inc,Ethan Brown,CEO,Award,4416616,0.0,7309500,6683715.0,2025-10-31,STK,Yes,1
+BYND,Beyond Meat Inc,Lubi Kutua,Treas & CFO,Award,806033,0.0,1333984,979002.0,2025-10-31,STK,Yes,1
+BYND,Beyond Meat Inc,Teri L Witteman,CLO & Co Sec,Award,552077,0.0,913687,654223.0,2025-10-31,STK,Yes,1
+DD,Dupont Denemours Inc,Steven P Larrabee,CIO,Award,13079,0.0,1067863,51895.0,2025-10-31,STK,Yes,1
+NTRA,Natera Inc,Gail Boxer Marcus,N/A,Award,121,0.0,24070,5884.0,2025-10-31,STK,Yes,1
+NTRA,Natera Inc,Dr Roy D Baynes,N/A,Award,93,0.0,18501,18359.0,2025-10-31,STK,Yes,1
+NTRA,Natera Inc,Monica Bertagnolli,N/A,Award,93,0.0,18501,5221.0,2025-10-31,STK,Yes,1
+NTRA,Natera Inc,Roelof Botha,Lead Indpdt. Dir,Award,149,0.0,29641,1231626.0,2025-10-31,STK,Yes,1
+NTRA,Natera Inc,Rowan E Chapman,N/A,Award,128,0.0,25463,6143.0,2025-10-31,STK,Yes,1
+NTRA,Natera Inc,Ruth Willams-Brinkley,N/A,Award,97,0.0,19296,5316.0,2025-10-31,STK,Yes,1
+CSTL,Castle Biosciences Inc,Kristen Oelschlager,COO,Sell,12678,25.04,317458,128506.0,2025-10-31,STK,Yes,1
+DD,Dupont Denemours Inc,Lori Koch,CEO,Award,98613,0.0,8051790,288587.0,2025-10-31,STK,Yes,1
+DD,Dupont Denemours Inc,Edward D Breen,Chair,Award,192332,0.0,15703924,330351.0,2025-10-31,STK,Yes,1
+AMZN,Amazon.com Inc,Jonathan J Rubinstein,N/A,Sell,8173,250.03,2043496,80030.0,2025-10-31,STK,Yes,1
+DD,Dupont Denemours Inc,Christopher Raia,CHRO,Award,19233,0.0,1570336,82809.0,2025-10-31,STK,Yes,1
+DD,Dupont Denemours Inc,Antonella B Franzen,CFO,Award,20755,0.0,1694680,52623.0,2025-10-31,STK,Yes,1
+DD,Dupont Denemours Inc,Erik T Hoover,Gen Cou,Award,23079,0.0,1884406,112101.0,2025-10-31,STK,Yes,1
+ETN,Eaton Corp,Gerald Johnson,N/A,Buy,100,384.335,38434,200.0,2025-10-31,STK,Yes,1
+PSA-L,Public Storage [Psa/Pl],American Shareholder,N/A,Sell,2089,25.19,52621,391557.0,2025-10-31,UIT,No,11
+KRC,Kilroy Realty Corp,Heidi Rena Roth,Chf Admin.,Sell,3944,41.9857,165592,69413.0,2025-10-31,STK,Yes,1
+UNF,Unifirst Corp,William Masters Ross,Ops,Award,501,0.0,77330,3750.0,2025-10-31,STK,Yes,1
+SNAP,Snap Inc,Michael J O?Sullivan,Gen Cou & Co Sec,Sell,24000,7.7343,185624,2416318.0,2025-10-31,STK,Yes,1
+MAMA,Mama's Creations Inc,Adam L Michaels,Chair & CEO,Award,18885,0.0,199992,614033.0,2025-10-31,STK,Yes,1
+CVNA,Carvana Company Cl A,Ryan S Keeton,CBO,Sell,19678,301.6838,5936534,115456.0,2025-10-31,STK,Yes,1
+META,Meta Platforms Inc,Peggy Alford,N/A,Sell,601,674.4,405315,3505.0,2025-10-31,STK,Yes,1
+FFIV,F5 Inc,Francois Locoh Donou,CEO,Award,67620,0.0,17111241,217173.0,2025-10-31,STK,Yes,1
+MET,Metlife Inc,Adrienne Karen O'neill,CAO,Award,11902,0.0,950017,11902.0,2025-10-31,STK,Yes,1
+EOG,Eog Resources,Janet F Clark,N/A,Award,430,0.0,45536,46961.0,2025-10-31,STK,Yes,1
+CCEL,Cryo-Cell Intl Inc,David I Portnoy,Chair & Co-CEO,Award,4666,0.0,21043,1684513.0,2025-10-31,STK,No,1
+IMDX,Insight Molecular Diagnostics Inc,Andrea James,CFO,Award,50000,0.0,300500,201231.0,2025-10-31,STK,No,1
+UNF,Unifirst Corp,David Martin Katz,Sales & Mktg,Award,687,0.0,106039,6059.0,2025-10-31,STK,Yes,1
+UNF,Unifirst Corp,Steven S Sintros,CEO,Award,1898,0.0,292957,29102.0,2025-10-31,STK,Yes,1
+EOG,Eog Resources,Michael P Donaldson,Gen Cou & Sec,Award,202,0.0,21421,136583.0,2025-10-31,STK,Yes,1
+EOG,Eog Resources,Robert P Daniels,N/A,Award,593,0.0,62748,32135.0,2025-10-31,STK,Yes,1
+EOG,Eog Resources,Charles R Crisp,N/A,Award,387,0.0,40947,62841.0,2025-10-31,STK,Yes,1
+BUSE,First Busey Corp,Monica L Bowe,CRO,Award,503,0.0,11247,64087.0,2025-10-31,STK,Yes,1
+BUSE,First Busey Corp,Michael J. Maddox,V Chair & Pres,Award,1004,0.0,22449,216321.0,2025-10-31,STK,Yes,1
+PED,Pedevco Corp,Jody D. Crook,Chf Com Off.,Award,300000,0.0,180840,664118.0,2025-10-31,STK,No,1
+PED,Pedevco Corp,John Douglas Schick,CEO,Award,2000000,0.0,1205600,3577133.0,2025-10-31,STK,No,1
+PED,Pedevco Corp,Clark R Moore,VP.,Award,500000,0.0,301400,1583201.0,2025-10-31,STK,No,1
+EOG,Eog Resources,Michael T Kerr,N/A,Award,482,0.0,50999,188755.0,2025-10-31,STK,Yes,1
+EOG,Eog Resources,C Christopher Gaut,N/A,Award,178,0.0,18877,21072.0,2025-10-31,STK,Yes,1
+BUSE,First Busey Corp,A Van Dukeman,Chair & CEO,Award,1748,0.0,39085,470865.0,2025-10-31,STK,Yes,1
+BUSE,First Busey Corp,John Joseph Powers,Gen Cou,Award,559,0.0,12499,140807.0,2025-10-31,STK,Yes,1
+BUSEP,First Busey Corp,Scott A Phillips,CAO,Buy,1350,25.6367,34609,2350.0,2025-10-31,UIT,No,11
+GDYN,Grid Dynamics Holdings Inc,Leonard Livschitz,CEO,Sell,10000,9.0,90000,2864380.0,2025-10-31,STK,Yes,1
+RITM,Rithm Capital Corp,Michael Nierenberg,Chair & CEO,Award,4408,0.0,48356,1837238.0,2025-10-31,STK,Yes,1
+FFIV,F5 Inc,Chad Michael Whalen,Chf Revenue Of,Award,16325,0.0,4131041,39916.0,2025-10-31,STK,Yes,1
+NNN,NNN REIT Inc,Pamela K M Beall,N/A,Award,888,0.0,35928,34839.0,2025-10-31,STK,Yes,1
+IMMR,Immersion Corp,William C Martin,CSO,Award,7952,0.0,53200,1367992.0,2025-10-31,STK,Yes,1
+GETY,Getty Images Holdings Inc Cl A,American Shareholder,N/A,Sell,3470917,2.2732,7890088,70641345.0,2025-10-31,STK,Yes,1
+ADBE,Adobe Systems Inc,Jillian Forusz,CAO,Sell,72,337.88,24328,3426.0,2025-10-31,STK,Yes,1
+BUSE,First Busey Corp,Amy L Randolph,COO,Award,721,0.0,16122,119219.0,2025-10-31,STK,Yes,1
+MTDR,Matador Resources Company,William Thomas Elsener,EVP/DM,Buy,600,39.51,23706,112669.0,2025-10-31,STK,Yes,1
+ZLAB,Zai Lab Ltd ADR,Yajing Chen,CFO,Award,500,0.0,13064,17684.0,2025-10-31,STK,Yes,1
+FFIV,F5 Inc,Thomas Dean Fountain,COO,Award,18896,0.0,4781633,39595.0,2025-10-31,STK,Yes,1
+BUSE,First Busey Corp,Stanley J Bradshaw,N/A,Buy,1500,22.3133,33470,500382.0,2025-10-31,STK,Yes,1
+DHR,Danaher Corp,Mitchell P Rales,N/A,Sell,600000,216.06,129635999,27581061.0,2025-10-31,STK,Yes,1
+MTDR,Matador Resources Company,Robert Gaines Baty,N/A,Buy,500,39.51,19756,73396.0,2025-10-31,STK,Yes,1
+MBWM,Mercantile Bank Corp,Nelson F Sanchez,N/A,Buy,1000,43.5,43500,6586.0,2025-10-31,STK,Yes,1
+NNN,NNN REIT Inc,Edward J Fritsch,N/A,Award,888,0.0,35928,62796.0,2025-10-31,STK,Yes,1
+FFIV,F5 Inc,Cooper Edward Werner,CFO,Award,1843,0.0,466371,5953.0,2025-10-31,STK,Yes,1
+RIG,Transocean Inc,Roderick James Mackenzie,Chf Com Off.,Sell,53769,3.86,207548,247072.0,2025-10-31,STK,Yes,1
+RPM,RPM International Inc,Salvatore D Fazzolari,N/A,Sell,375,107.67,40377,21578.0,2025-10-31,STK,Yes,1
+FFIV,F5 Inc,Kunal Anand,CTO,Award,2535,0.0,641482,9214.0,2025-10-31,STK,Yes,1
+ITT,ITT Inc,Emmanuel Caprais,CFO,Sell,5500,185.229,1018759,37933.0,2025-10-31,STK,Yes,1
+FFIV,F5 Inc,Lyra Amber Schramm,Chf People Off,Award,1843,0.0,466371,1843.0,2025-10-31,STK,Yes,1
+UNF,Unifirst Corp,Kelly C Rooney,COO,Award,2529,0.0,390351,7964.0,2025-10-31,STK,Yes,1
+UNF,Unifirst Corp,Shane O'connor,CFO,Award,897,0.0,138452,7827.0,2025-10-31,STK,Yes,1
+UNF,Unifirst Corp,David A Difillippo,VP of Ops,Award,501,0.0,77330,10822.0,2025-10-31,STK,Yes,1
+PSA-Q,Public Storage,Daniel S Solender,N/A,Buy,9756,10.25,100000,115646.0,2025-10-31,UIT,No,11
+NXRT,Nexpoint Residential Trust Inc,Brian Mitts,N/A,Sell,5000,30.52,152600,84440.0,2025-10-31,STK,Yes,1
+DBI,Designer Brands Inc,Joseph A Schottenstein,N/A,Award,6098,0.0,22501,1589242.0,2025-10-31,STK,Yes,1
+TVTX,Travere Therapeutics Inc,Peter Heerma,Chf Com Off.,Sell,5591,35.0,195685,119071.0,2025-10-31,STK,Yes,1
+UMBF,UMB Financial Corp,Mariner Kemper,Chair & CEO,Award,5613,0.0,599917,2593561.0,2025-10-31,STK,Yes,1
+AMT,American Tower Corp,Eugene F Reilly,N/A,Buy,5554,178.99,994111,5689.0,2025-10-31,STK,Yes,1
+PSA-Q,Public Storage,American Shareholder,N/A,Sell,5779,27.9447,161483,111151.0,2025-10-31,UIT,No,11
+JBHT,J B Hunt Transport,Spencer Frazier,Mktg & Sales,Award,495,0.0,83586,19254.0,2025-10-31,STK,Yes,1
+JBHT,J B Hunt Transport,Jennifer Boattini,Legal & Co Sec,Award,3828,0.0,646396,18888.0,2025-10-31,STK,Yes,1
+EQB-PR-C.TO,Equitable Group Inc Pref Ser 3,American Shareholder,N/A,Sell,419111,11.93,5000000,24303768.0,2025-10-31,STKINT:CA,No,6
+AMRZ,Amrize Ltd,Roald Brouwer,CTO,Buy,4000,51.775,207100,9000.0,2025-10-31,STK,Yes,1
+PBI,Pitney Bowes Inc,Peter Brimm,N/A,Buy,12500,10.1596,126995,12500.0,2025-10-31,STK,Yes,1
+PSA-L,Public Storage [Psa/Pl],American Shareholder,N/A,Buy,673712,16.3275,11000031,19774389.0,2025-10-31,UIT,No,11
+PSA-Q,Public Storage,American Shareholder,N/A,Buy,587672,18.7179,10999990,43230340.0,2025-10-31,UIT,No,11
+PSA-L,Public Storage [Psa/Pl],American Shareholder,N/A,Buy,244986,16.3275,4000011,14799227.0,2025-10-31,UIT,No,11
+PSA-Q,Public Storage,American Shareholder,N/A,Buy,480823,18.7179,8999992,50010551.0,2025-10-31,UIT,No,11
+PSA-Q,Public Storage,American Shareholder,N/A,Buy,106850,18.7179,1999998,20398784.0,2025-10-31,UIT,No,11
+LH,Laboratory Corp of America Holdings,Richelle P Parham,N/A,Sell,7009,254.2835,1782274,2469.0,2025-10-31,STK,Yes,1
+GBCI,Glacier Bancorp Inc,Kristen Lee Heck,N/A,Buy,611,40.7865,24920,10536.0,2025-10-31,STK,Yes,1
+IDCC,Interdigital Inc,Joshua D Schmidt,CLO & Co Sec,Sell,443,395.63,175264,27928.0,2025-10-31,STK,Yes,1
+MTDR,Matador Resources Company,Bryan A Erman,Co-Pres.,Buy,1000,39.6,39600,84168.0,2025-10-31,STK,Yes,1
+MTDR,Matador Resources Company,Robert T Macalik,CFO,Buy,1039,39.4,40937,142500.0,2025-10-31,STK,Yes,1
+GLSI,Greenwich Lifesciences Inc,Snehal Patel,CEO/CFO,Buy,2300,9.26,21298,5572902.0,2025-10-31,STK,No,1
+ICLR,Icon Plc,Nigel Clerkin,CFO,Award,1473,0.0,253091,2021378.1586314153,2025-10-31,STK,Yes,1
+FQVLF,First Quantum Minerals Ltd,Kevin Mcarthur,Chair,Buy,10000,21.0048,210048,35000.0,2025-10-31,STK:OTC,No,1
+FINW,Finwise Bancorp,Howard I Reynolds,Lead Indpdt. Dir,Buy,2297,18.95,43529,38105.0,2025-10-31,STK,No,1
+IONS,Ionis Pharmaceuticals,Dr Richard S Geary,CDO,Sell,20000,75.1083,1502166,59657.0,2025-10-31,STK,Yes,1
+FTV,Fortive Corp,Stacey A Walker,SVP & CPO,Sell,2192,50.35,110367,59488.0,2025-10-31,STK,Yes,1
+IONS,Ionis Pharmaceuticals,Joseph H Wender,Lead Indpdt. Dir,Sell,28000,74.0206,2072576,64035.0,2025-10-31,STK,Yes,1
+GDRX,Goodrx Holdings Inc Cl A,Scott Wagner,Co-Chair,Award,3065,0.0,10329,368169.0,2025-10-31,STK,Yes,1
+LOGI,Logitech Int S.A.,Neela Montgomery,N/A,Sell,5833,120.6103,703520,12781.0,2025-10-31,STK,Yes,1
+PMTS,CPI Card Group,Darren Dragovich,CLO/CCO/Secy,Award,3489,0.0,54568,2485.0,2025-10-31,STK,No,1
+PMTS,CPI Card Group,Ernesto Boada,CIO,Award,4653,0.0,72772,3315.0,2025-10-31,STK,No,1
+DAY,Dayforce Inc,American Shareholder,N/A,Sell,49705,68.5092,3405250,24743271.0,2025-10-31,STK,Yes,1
+ARCC,Ares Capital Corp,Kort Schnabel,CEO,Buy,13000,20.39,265070,28000.0,2025-10-31,STK,Yes,1
+VRSK,Verisk Analytics Inc,Jeffrey J Dailey,N/A,Buy,500,217.03,108516,3962.0,2025-10-31,STK,Yes,1
+KMB,Kimberly-Clark Corp,Tamera Fenske,Chf SupplyChain,Award,24659,0.0,2951929,19842.0,2025-10-31,STK,Yes,1
+ARAY,Accuray Inc,Michael John Murphy,PAO,Award,37500,0.0,52875,25499.0,2025-10-31,STK,Yes,1
+PTLO,Portillo's Inc,Kelly M Kaiser,Gen Cou,Award,35514,0.0,190000,104375.0,2025-10-31,STK,Yes,1
+PTLO,Portillo's Inc,Keith M Correia,CIO,Award,33177,0.0,177496,62616.0,2025-10-31,STK,Yes,1
+VRSK,Verisk Analytics Inc,Gregory S Hendrick,N/A,Buy,500,216.14,108070,2536.0,2025-10-31,STK,Yes,1
+VRSK,Verisk Analytics Inc,Sabra R Purtill,N/A,Buy,450,217.95,98077,1327.0,2025-10-31,STK,Yes,1
+PTLO,Portillo's Inc,Tony Darden,COO,Award,43457,0.0,232494,104553.0,2025-10-31,STK,Yes,1
+PTLO,Portillo's Inc,Michelle Greig Hook,CFO & Treas,Award,43824,0.0,234459,217229.0,2025-10-31,STK,Yes,1
+FENC,Fennec Pharmaceuticals Inc,Robert Christopher Andrade,CFO,Award,2430,0.0,19926,173104.0,2025-10-31,STK,Yes,1
+PODD,Insulet Corp,Robert Luther Huffines,N/A,Award,477,0.0,149306,477.0,2025-10-31,STK,Yes,1
+FENC,Fennec Pharmaceuticals Inc,Rostislav Christov Raykov,N/A,Award,5208,0.0,42706,92318.0,2025-10-31,STK,Yes,1
+GH,Guardant Health Inc,Steve Krognes,N/A,Award,154,0.0,14326,18436.0,2025-10-31,STK,Yes,1
+JBL,Jabil Circuit,May Yap,CIO,Sell,8858,225.03,1993315,25421.0,2025-10-31,STK,Yes,1
+DECK,Deckers Outdoor Corp,Angela Ogbechie,Chf SupplyChain,Sell,1460,81.4453,118910,34020.0,2025-10-31,STK,Yes,1
+CNDT,Conduent Inc,Michael J. Fucci,N/A,Award,13419,0.0,31937,13419.0,2025-10-31,STK,Yes,1
+CNMD,C O N M E D Corp,Todd W Garner,Fin & CFO,Award,7500,0.0,330000,5336.0,2025-10-31,STK,Yes,1
+MTG,Mgic Investment Corp,Martin P Klein,N/A,Award,1324,0.0,36301,1324.0,2025-10-31,STK,Yes,1
+MTG,Mgic Investment Corp,Daniela O?Leary-Gill,N/A,Award,1324,0.0,36301,1324.0,2025-10-31,STK,Yes,1
+ARAY,Accuray Inc,Steven F. Mayer,N/A,Award,354609,0.0,499999,354609.0,2025-10-31,STK,Yes,1
+PTLO,Portillo's Inc,Jill Francine Waite,CHRO,Award,39282,0.0,210159,94218.0,2025-10-31,STK,Yes,1
+CLVT,Clarivate Analytics Plc,Andrew Miles Snyder,Chair,Buy,1460000,3.33,4861799,26011599.0,2025-10-31,STK,Yes,1
+ENPH,Enphase Energy Inc,Badrinarayanan Kothandaraman,CEO,Buy,10000,30.9317,309317,1701452.0,2025-10-31,STK,Yes,1
+BC,Brunswick Corp,Nancy E Cooper,Chair,Award,667,0.0,44095,27316.0,2025-10-31,STK,Yes,1
+IZEA,Izea Inc,Peter Biere,CFO & Treas,Award,15885,0.0,81807,74785.0,2025-10-31,STK,Yes,1
+IZEA,Izea Inc,Patrick James Venetucci,CEO,Award,30650,0.0,157847,206431.0,2025-10-31,STK,Yes,1
+CFFN,Capitol Fed Finl Inc,Rick C Jackson,Chf Lendg,Buy,10000,6.0499,60499,240768.0,2025-10-31,STK,Yes,1
+VRSN,Verisign Inc,Danny Mcpherson,EVP Tech,Sell,2500,236.87,592175,28577.0,2025-10-31,STK,Yes,1
+ACT,Enact Holdings Inc,American Shareholder,N/A,Sell,940819,36.1934,34051438,117010462.0,2025-10-31,STK,Yes,1
+LLY,Eli Lilly and Company,American Shareholder,N/A,Sell,301342,863.3547,260165032,94231978.0,2025-10-31,STK,Yes,1
+GLW,Corning Inc,Edward A. Schlesinger,CFO & EVP,Sell,12049,91.25,1099471,66959.0,2025-10-31,STK,Yes,1
+OBT,Orange County Bancor,Michael J Gilfeather,CEO,Buy,1650,24.02,39633,122988.0,2025-10-31,STK,No,1
+MAA,Mid-America Apartment Communities,H Eric Bolton Jr,Chair,Buy,578,129.3578,74769,330443.0,2025-10-31,STK,Yes,1
+WAB,Wabtec Corp,Gregory Sbrocco,VP of Ops,Sell,2424,203.7658,493928,15405.0,2025-10-31,STK,Yes,1
+GLW,Corning Inc,Lewis A Steverson,V.Chair & CLO,Sell,23142,89.0487,2060765,17575.0,2025-10-31,STK,Yes,1
+KMI,Kinder Morgan Inc,Amy W Chronis,N/A,Buy,4287,26.2289,112444,39051.0,2025-10-31,STK,Yes,1
+WBD,Discovery Inc Series A,Gunnar Wiedenfels,CFO,Sell,222210,22.5,4999726,918940.0,2025-10-31,STK,Yes,1
+CASH,Pathward Financial Inc,Douglas J Hajek,V.Chair,Sell,3000,68.11,204331,16631.0,2025-10-31,STK,Yes,1
+MTG,Mgic Investment Corp,Paula C Maggio,Gen Cou,Sell,20000,27.441,548820,227817.0,2025-10-31,STK,Yes,1
+DORM,Dorman Products Inc,David Hession,CFO & Treas,Sell,12493,135.3061,1690379,5639.0,2025-10-31,STK,Yes,1
+PUMP,Propetro Holding Corp,Michele Vion Choka,N/A,Sell,6916,10.64,73586,45029.0,2025-10-31,STK,Yes,1
+IRTC,Irhythm Technologies Inc,Daniel G Wilson,CFO,Sell,8000,207.44,1659521,26570.0,2025-10-31,STK,Yes,1
+IVZ,Invesco Plc,Douglas J Sharp,Sr.Mng Member,Sell,160000,23.5552,3768832,192.0,2025-10-31,STK,Yes,1
+TEAM,Atlassian Corp,Scott Farquhar,N/A,Sell,7665,167.6142,1284763,314265.0,2025-10-31,STK,Yes,1
+TEAM,Atlassian Corp,Michael Cannon-Brookes,CEO,Sell,7665,167.614,1284762,314265.0,2025-10-31,STK,Yes,1
+CNXC,Concentrix Corp,Christopher A Caldwell,CEO,Buy,1000,40.0,40000,287661.0,2025-10-31,STK,Yes,1
+TELA,Tela Bio Inc,William J Plovanic,N/A,Award,11925,0.0,14667,11925.0,2025-10-31,STK,Yes,1
+IRDM,Iridium Comm Inc,Thomas J Fitzpatrick,N/A,Sell,20839,18.0,375102,231034.0,2025-10-31,STK,Yes,1
+LSTR,Landstar System,Barr Blanton,N/A,Award,645,0.0,82837,645.0,2025-10-31,STK,Yes,1
+CZR,Caesars Entertainment Inc,Bonnie S Biumi,N/A,Buy,1000,18.6876,18687,32780.0,2025-10-31,STK,Yes,1
+LSTR,Landstar System,Melanie M Housey Hart,N/A,Award,645,0.0,82837,645.0,2025-10-31,STK,Yes,1
+PUMP,Propetro Holding Corp,G Larry Lawrence,N/A,Sell,27000,10.84,292679,35831.0,2025-10-31,STK,Yes,1
+TEX,Terex Corp,Andra Rush,N/A,Buy,2120,46.59,98771,25428.0,2025-10-31,STK,Yes,1
+SCCO,Southern Copper Corp,Dr Luis Miguel Palomino Bonilla,N/A,Sell,200,139.35,27870,1713.0,2025-10-31,STK,Yes,1
+DCOM,Dime Community Bancshares Inc,Raymond A Nielsen,N/A,Sell,4200,26.4424,111058,34505.0,2025-10-31,STK,Yes,1
+NBTB,NBT Bancorp Inc,Timothy E Delaney,N/A,Buy,2000,40.5,80999,41894.0,2025-10-31,STK,Yes,1
+FIX,Comfort Systems USA,Darcy G Anderson,N/A,Sell,4000,958.7222,3834888,22535.0,2025-10-31,STK,Yes,1
+NQP,Nuveen Pennsylvania Investment,American Shareholder,N/A,Sell,97376,12.0195,1170410,4437097.0,2025-10-31,UIT,No,11
+MEGI,Nyli CBRE Global Infrastructure Megatrends Term,American Shareholder,N/A,Sell,68854,14.2073,978230,6157697.0,2025-10-31,UIT,No,11
+ASA,ASA Gold and Precious Metals,American Shareholder,N/A,Buy,17547,46.0525,808083,5119362.0,2025-10-31,UIT,Yes,11
+ECAT,Blackrock ESG Capital Allocation Trust,American Shareholder,N/A,Sell,102067,16.4506,1679063,27298303.0,2025-10-31,UIT,No,11
+USNA,Usana Health Sciences Inc,John Turman Fleming,N/A,Sell,693,19.79,13715,4565.0,2025-10-31,STK,Yes,1
+FFIN,First Finl Bkshs Inc,Sally Pope Davis,N/A,Buy,1700,30.73,52240,6971.0,2025-10-31,STK,Yes,1
+AVBC,Avidia Bancorp Inc,Barry H Jensen,Chf Admin.,Buy,2500,14.9654,37413,25100.0,2025-10-31,STK,No,1
+SLGN,Silgan Holdings,Adam J Greenlee,CEO,Buy,7000,38.1854,267298,328164.0,2025-10-31,STK,Yes,1
+MTDR,Matador Resources Company,Joseph Wm Foran,Chair & CEO,Buy,10842,39.7206,430650,5438525.0,2025-10-31,STK,Yes,1
+DAVA,Endava Plc ADR,John Cotterell,CEO,Sell,14483,9.2281,133651,2021378.1586314153,2025-10-31,STK,Yes,1
+ARM,Arm Holdings Plc ADR,Rene Haas,CEO,Sell,6152,169.4096,1042207,2021378.1586314153,2025-10-31,STK,Yes,1
+AER,Aercap Holdings N.V.,Stacey Cartwright,N/A,Sell,3500,130.38,456330,2021378.1586314153,2025-10-31,STK,Yes,1
+NCTY,The9 Ltd ADR,Davin Alexander Mackenzie,N/A,Sell,20000,10.19,203800,2021378.1586314153,2025-10-31,STK,No,1
+NEXM,Nexmetals Mining Corp,Sean Michael Whiteford,Pres.,Buy,5086,3.93,19988,22833.0,2025-10-31,STK,No,1
+CRWV,Coreweave Inc Cl A,American Shareholder,N/A,Sell,738665,135.367,99990865,136920819.0,2025-10-31,STK,Yes,1
+NAVN,Navan Inc Cl A,Ilan Ezra Twig,CTO,Sell,1000000,25.0,25000000,587222.0,2025-10-31,UIT,Yes,11
+NAVN,Navan Inc Cl A,Ariel M Cohen,Chair & CEO,Sell,924332,25.0,23108300,1154925.0,2025-10-31,UIT,Yes,11
+EWBC,East West Bancorp,Molly Campbell,N/A,Sell,980,101.02,98999,11076.0,2025-10-31,STK,Yes,1
+TKO,Tko Group Holdings Inc Cl A,Dwayne D Johnson,N/A,Award,8046,0.0,1510878,370138.0,2025-10-31,STK,Yes,1
+JBGS,Jbg Smith Properties,Steven A Museles,CLO & Co Sec,Sell,31256,19.4984,609442,0.0,2025-10-31,STK,Yes,1
+ROG,Rogers Corp,Brian Keith Larabee,GM,Sell,775,85.8658,66546,4462.0,2025-10-31,STK,Yes,1
+ATEC,Alphatec Holdings,Craig E. Hunsaker,Div. EVP,Sell,100000,19.95,1995000,1289142.0,2025-10-31,STK,Yes,1
+FOXA,Fox Corp Cl A,Paul D Ryan,N/A,Sell,17767,64.36,1143484,0.0,2025-10-31,STK,Yes,1
+OPK,Opko Health Inc,Dr Phillip Frost,Chair & CEO,Buy,150000,1.4229,213435,248082576.0,2025-10-31,STK,Yes,1
+PATH,Uipath Inc Cl A,Daniel Dines,Chair & CEO,Sell,45000,15.7171,707270,29423585.0,2025-10-31,STK,Yes,1
+MS,Morgan Stanley,Edward N Pick,Chair & CEO,Sell,100000,164.3444,16434440,761088.0,2025-10-31,STK,Yes,1
+APLD,Applied Digital Corp,Chuck Hastings,N/A,Sell,75000,35.2167,2641253,426612.0,2025-10-31,STK,Yes,1
+FCPT,Four Corners Property Trust IN,Douglas B Hansen Jr.,Chair,Buy,1984,23.6399,46902,78247.0,2025-10-31,STK,Yes,1
+APLD,Applied Digital Corp,Dr Richard N Nottenburg,N/A,Sell,14375,35.5239,510657,249237.0,2025-10-31,STK,Yes,1
+EBF,Ennis Inc,Vera Burnett,CFO & Treas,Buy,1000,16.5126,16512,29020.0,2025-10-31,STK,Yes,1
+ASTE,Astec Inds Inc,Jeffrey T Jackson,N/A,Award,401,0.0,18755,8788.0,2025-10-31,STK,Yes,1
+AFB,Alliance National Municipal,Garry L Moody,Chair,Buy,13500,11.0746,149507,13500.0,2025-10-31,UIT,No,11
+MOFG,Midwestone Fnl Gp,Charles N Reeves,CEO,Buy,3000,36.5793,109737,94229.0,2025-10-31,STK,Yes,1
+PEBO,Peoples Bancorp Inc,W Glenn Hogan,N/A,Buy,1000,28.82,28820,534239.0,2025-10-30,STK,Yes,1
+MU,Micron Technology,Mark J Murphy,CFO,Sell,44343,225.3104,9990938,219693.0,2025-10-30,STK,Yes,1
+INTU,Intuit Inc,Thomas J Szkutak,N/A,Award,80,0.0,52494,4848.0,2025-10-30,STK,Yes,1
+QLYS,Qualys Inc,Bradford L Brooks,N/A,Award,3198,0.0,395880,3198.0,2025-10-30,STK,Yes,1
+MBIN,Merchants Bancorp,Michael R Dury,Subs CEO,Buy,15500,31.64,490420,156274.0,2025-10-30,STK,Yes,1
+BGMS,Bio Green Med Solution Inc,Yee Lung Ong,N/A,Sell,248814,1.8,447866,0.0,2025-10-30,STK,No,1
+BGMS,Bio Green Med Solution Inc,Khai Loon Kua,N/A,Sell,242477,1.8,436458,0.0,2025-10-30,STK,No,1
+BGMS,Bio Green Med Solution Inc,Kim Choy Yap,N/A,Sell,112260,1.807,202854,28500.0,2025-10-30,STK,No,1
+IDXX,Idexx Laboratories,Joseph L Hooley,N/A,Award,39,0.0,24513,39.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,Andrew T Sheehan,N/A,Award,9938,0.0,144995,80779.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,Hillary B Smith,N/A,Award,9938,0.0,144995,67309.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,James R Simons,N/A,Award,9938,0.0,144995,120569.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,Asmau Ahmed,N/A,Award,9938,0.0,144995,64979.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,Matthew Glickman,N/A,Award,9938,0.0,144995,133078.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,Stuart M Huizinga,N/A,Award,9938,0.0,144995,181861.0,2025-10-30,STK,Yes,1
+QNST,Quinstreet Inc,David J Pauldine,N/A,Award,9938,0.0,144995,186765.0,2025-10-30,STK,Yes,1
+DBX,Dropbox Inc,Sarah Schubach,Contr. & CAO,Sell,1066,28.4,30274,103591.0,2025-10-30,STK,Yes,1
+LXU,Lsb Industries Inc,Cheryl Maguire,CFO,Sell,5400,9.75,52650,227870.0,2025-10-30,STK,Yes,1
+FBP,First Bancorp,Felix M Villamil,N/A,Award,2053,0.0,39992,19060.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Dr. Joseph D Keegan,N/A,Award,1640,0.0,99975,15411.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Julie L Bushman,N/A,Award,1640,0.0,99975,8775.0,2025-10-30,STK,Yes,1
+TWIN,Twin Disc Inc,Michael C Smiley,Chair,Award,5378,0.0,83896,74746.0,2025-10-30,STK,Yes,1
+TWIN,Twin Disc Inc,Kevin M Olsen,N/A,Award,5378,0.0,83896,26066.0,2025-10-30,STK,Yes,1
+TWIN,Twin Disc Inc,Juliann Larimer,N/A,Award,5378,0.0,83896,28607.0,2025-10-30,STK,Yes,1
+TWIN,Twin Disc Inc,Janet Plaut Giesselman,N/A,Award,5378,0.0,83896,62611.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Robert V Baumgartner,Chair,Award,1640,0.0,99975,46503.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Dr Rupert Vessey,N/A,Award,1640,0.0,99975,10987.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Judith Klimovsky,N/A,Award,1640,0.0,99975,3782.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Amy Herr,N/A,Award,1640,0.0,99975,4834.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,Dr Alpna Seth,N/A,Award,1640,0.0,99975,15411.0,2025-10-30,STK,Yes,1
+TECH,Bio-Techne Corp,John L Higgins,N/A,Award,1640,0.0,99975,66876.0,2025-10-30,STK,Yes,1
+CRDO,Credo Technology Group Holding Ltd,William Joseph Brennan,Chair & CEO,Sell,68016,171.2303,11646400,2262409.0,2025-10-30,STK,Yes,1
+DBX,Dropbox Inc,Timothy Regan,CFO,Sell,1500,28.4,42600,468621.0,2025-10-30,STK,Yes,1
+PETS,Petmed Express Inc,Douglas Krulik,CAO & Int CFO,Award,20000,0.0,50400,70000.0,2025-10-30,STK,Yes,1
+BOKF,Bok Financial Corp,Steven Bangert,N/A,Sell,2500,106.2042,265510,50652.0,2025-10-30,STK,Yes,1
+RCUS,Arcus Biosciences Inc,Juan C Jaen,Pres.,Sell,4314,20.3175,87650,1454280.0,2025-10-30,STK,Yes,1
+PCG,Pacific Gas & Electric Company,Jason M Glickman,Div. EVP,Sell,29473,15.95,470094,89179.0,2025-10-30,STK,Yes,1
+MTDR,Matador Resources Company,Paul W Harvey,N/A,Buy,800,40.3,32239,40342.0,2025-10-30,STK,Yes,1
+STX,Seagate Technology Hldgs Plc,Kian Fatt Chong,Div. VP.,Sell,7078,272.1403,1926209,0.0,2025-10-30,STK,Yes,1
+MTDR,Matador Resources Company,Glenn W Stetson,Div. EVP,Buy,700,39.95,27965,94652.0,2025-10-30,STK,Yes,1
+IRDM,Iridium Comm Inc,Matthew J Desch,CEO,Buy,20000,17.33,346600,1127019.0,2025-10-30,STK,Yes,1
+INSG,Inseego Corp,Stephen J Bye,N/A,Award,8879,0.0,144994,8879.0,2025-10-30,STK,Yes,1
+GOOG,Alphabet Cl C,Dr Frances Arnold,N/A,Sell,112,291.8,32681,18004.0,2025-10-30,STK,Yes,1
+HAYW,Hayward Holdings Inc,Ronald C Keating,N/A,Award,1235,0.0,21267,45818.0,2025-10-30,STK,Yes,1
+HAYW,Hayward Holdings Inc,Arthur Soucy,N/A,Award,1235,0.0,21267,46722.0,2025-10-30,STK,Yes,1
+HAYW,Hayward Holdings Inc,Stephen J. Felice,N/A,Award,1815,0.0,31255,344203.0,2025-10-30,STK,Yes,1
+ABNB,Airbnb Inc Cl A,Aristotle N Balogh,CTO,Sell,600,125.47,75281,196006.0,2025-10-30,STK,Yes,1
+HAYW,Hayward Holdings Inc,Kevin D Brown,N/A,Award,7550,0.0,130011,3208079.0,2025-10-30,STK,Yes,1
+PETS,Petmed Express Inc,James Lacamp,N/A,Award,34866,0.0,87863,34866.0,2025-10-30,STK,Yes,1
+HAIN,Hain Celestial Group,Dawn M Zier,Chair,Award,114729,0.0,148001,402958.0,2025-10-30,STK,Yes,1
+FI,Fiserv Inc,Lance M Fritz,N/A,Buy,10000,65.18,651800,13086.0,2025-10-30,STK,Yes,1
+FOR,Forestar Group Inc,Kellie L Fischer,N/A,Award,1453,0.0,38069,1453.0,2025-10-30,STK,Yes,1
+FOR,Forestar Group Inc,Samuel R Fuller,N/A,Award,2000,0.0,52400,29359.0,2025-10-30,STK,Yes,1
+FOR,Forestar Group Inc,Lisa H Jamieson,N/A,Award,2000,0.0,52400,23859.0,2025-10-30,STK,Yes,1
+FOR,Forestar Group Inc,Elizabeth Parmer,N/A,Award,2000,0.0,52400,2000.0,2025-10-30,STK,Yes,1
+FOR,Forestar Group Inc,George W Seagraves,N/A,Award,1453,0.0,38069,1453.0,2025-10-30,STK,Yes,1
+HAIN,Hain Celestial Group,Neil Campbell,N/A,Award,114729,0.0,148001,240298.0,2025-10-30,STK,Yes,1
+HAIN,Hain Celestial Group,"Dr, Celeste A Clark",N/A,Award,114729,0.0,148001,285721.0,2025-10-30,STK,Yes,1
+HAIN,Hain Celestial Group,Shervin J. Korangy,N/A,Award,114729,0.0,148001,284355.0,2025-10-30,STK,Yes,1
+PETS,Petmed Express Inc,Peter Batushansky,N/A,Award,33846,0.0,85291,36373.0,2025-10-30,STK,Yes,1
+HAIN,Hain Celestial Group,Michael B Sims,N/A,Award,114729,0.0,148001,415484.0,2025-10-30,STK,Yes,1
+PETS,Petmed Express Inc,Leah A. Solivan,N/A,Award,33846,0.0,85291,42289.0,2025-10-30,STK,Yes,1
+PETS,Petmed Express Inc,Justin L Mennen,N/A,Award,33846,0.0,85291,42719.0,2025-10-30,STK,Yes,1
+HAIN,Hain Celestial Group,Carlyn R Taylor,N/A,Award,114729,0.0,148001,318160.0,2025-10-30,STK,Yes,1
+NIC,Nicolet Bankshares Inc,Robert J Weyers,N/A,Buy,3000,115.7333,347200,106371.0,2025-10-30,STK,Yes,1
+SFNC,Simmons First Natl,Steven A Coss?,N/A,Buy,8603,17.44,150036,113652.0,2025-10-30,STK,Yes,1
+BHB,Bar Harbor Bankshares,Matthew L Caras,Chair,Buy,580,29.12,16889,20524.0,2025-10-30,STK,Yes,1
+INBK,First Internet Bcp,Ann Colussi Dee,N/A,Buy,1110,17.94,19913,17070.0,2025-10-30,STK,Yes,1
+BRPSF,Brookfield Corp,American Shareholder,N/A,Sell,1152472,17.354,20000000,3033788.0,2025-10-30,STK:OTC,No,1
+PEO,Adams Natural Resources Fund Inc,American Shareholder,N/A,Sell,11388,21.52,245070,2675936.0,2025-10-30,UIT,Yes,11
+GF,New Germany Fund,American Shareholder,N/A,Buy,11113,11.41,126799,1977946.0,2025-10-30,UIT,No,11
+AIRE,Realpha Tech Corp,Giri Devanur,Chair,Award,149133,0.0,89062,28230480.0,2025-10-30,STK,No,1
+AIRE,Realpha Tech Corp,Michael J Logozzo,CEO,Award,149133,0.0,89062,2773344.0,2025-10-30,STK,No,1
+AIRE,Realpha Tech Corp,Piyush Phadke,CFO,Award,149133,0.0,89062,580327.0,2025-10-30,STK,No,1
+NUE,Nucor Corp,Allen C Behr,EVP,Sell,9042,151.2831,1367902,73661.0,2025-10-30,STK,Yes,1
+NUE,Nucor Corp,Stephen D Laxton,CFO &Treas.,Sell,2003,151.5722,303599,88174.0,2025-10-30,STK,Yes,1
+CARE,Carter Bankshares Inc,Robert M Bolton,N/A,Sell,1901,17.23,32755,67327.0,2025-10-30,STK,Yes,1
+PSORF,Pearson Plc,Omid Kordestani,Chair,Buy,6746,14.065,94883,98603.0,2025-10-30,STK:OTC,No,1
+EIX,Edison International,Peter J Taylor,N/A,Sell,1800,55.27,99486,35212.0,2025-10-30,STK,Yes,1
+PYPL,Paypal Holdings,Suzan Kereere,Div. Pres.,Sell,5000,69.5244,347622,43483.0,2025-10-30,STK,Yes,1
+APP,Applovin Corp Cl A,Victoria (Tory) Valenzuela,CLO & Co Sec,Award,20236,0.0,12558866,290191.0,2025-10-30,STK,Yes,1
+APP,Applovin Corp Cl A,Matthew Stumpf,CFO,Award,20236,0.0,12558866,201893.0,2025-10-30,STK,Yes,1
+APP,Applovin Corp Cl A,Adam Foroughi,Chair & CEO,Award,20236,0.0,12558866,7951845.0,2025-10-30,STK,Yes,1
+APP,Applovin Corp Cl A,Vasily Shikin,CTO,Award,20236,0.0,12558866,3965957.0,2025-10-30,STK,Yes,1
+QLYS,Qualys Inc,Sumedh S Thakar,CEO,Award,61092,0.0,7562578,265043.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Trisha L Coady,Div. EVP,Award,2566,0.0,62995,32530.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Robert A Frist Jr,Chair & CEO,Award,958,0.0,23519,5449385.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Scott Alexander Roberts,CFO,Award,766,0.0,18805,30776.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Kevin P O'Hara,Div. EVP,Award,766,0.0,18805,18373.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Michael Scott Mcquigg,SVP.,Award,766,0.0,18805,29167.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Scott Fenstermacher,SVP.,Award,575,0.0,14117,16837.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Jeff Cunningham,CTO,Award,766,0.0,18805,33589.0,2025-10-30,STK,Yes,1
+HSTM,Healthstream Inc,Michael Manning Collier,Dev.,Award,895,0.0,21972,50981.0,2025-10-30,STK,Yes,1
+IHT,Innsuites Hospitality Trust,James F Wirth,Chair & CEO,Sell,22500,1.5552,34992,6114296.0,2025-10-30,STK,No,1
+FMAO,Farmers & Merch Banc,Steven J Planson,N/A,Buy,2329,23.42,54545,62003.0,2025-10-30,STK,Yes,1
+PTCT,Ptc Therapeutics,Emma Reeve,N/A,Sell,3666,69.5,254787,6666.0,2025-10-30,STK,Yes,1
+BBY,Best Buy Company,Richard M Schulze,Chair Emeritus,Sell,137387,84.2316,11572327,13556231.0,2025-10-30,STK,Yes,1
+TEAM,Atlassian Corp,Scott Farquhar,N/A,Sell,7665,161.7502,1239815,321930.0,2025-10-30,STK,Yes,1
+XYL,Xylem Inc,Claudia S Toussaint,SVP & CPO,Sell,10421,152.64,1590662,35189.0,2025-10-30,STK,Yes,1
+COCO,The Vita Coco Company Inc,Martin F Roper,CEO,Sell,21000,46.0433,966909,990655.0,2025-10-30,STK,Yes,1
+APP,Applovin Corp Cl A,Dmitriy Dorosh,PAO,Award,809,0.0,502081,115931.0,2025-10-30,STK,Yes,1
+COCO,The Vita Coco Company Inc,Michael Kirban,Chair,Sell,44898,45.2066,2029686,2227461.0,2025-10-30,STK,Yes,1
+CNXC,Concentrix Corp,Christopher A Caldwell,CEO,Buy,2000,42.0279,84056,286661.0,2025-10-30,STK,Yes,1
+CNXC,Concentrix Corp,Cormac J Twomey,Global Ops,Sell,500,42.53,21265,35630.0,2025-10-30,STK,Yes,1
